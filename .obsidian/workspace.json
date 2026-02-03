@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COGS 100 - Notes"
+              "title": "README"
             }
           }
         ]
@@ -176,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d38fa7917c0245",
+  "active": "3cc666201b05c0c0",
   "lastOpenFiles": [
+    "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
     "README.md",
     "Classes Spring 2026/CMPT 125/CMPT 125 - Notes.md",
-    "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
     "2026-02-03.md",
     "Untitled.md",
     "Untitled.base",

@@ -1,1 +1,1 @@
-This is my notes utitilizing the obsidian git extension. 
+This is my notes utilizing the obsidian git extension. 
