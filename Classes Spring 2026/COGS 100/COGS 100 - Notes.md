@@ -309,4 +309,4 @@ Mogan Noblesse
 		- Functioning happens mostly on the left brain hemisphere
 		- Does not mean it is completely in left hemisphere
 	- Left-Lateralization is thought to be tied to the fact that humans have a preference for right handedness
-
+	- 

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "04b1450061e43ad3",
+        "id": "408de379816a7232",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc666201b05c0c0",
+            "id": "a7f1a63aee08b665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "COGS 100 - Notes"
             }
           }
         ]
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cc666201b05c0c0",
+  "active": "a7f1a63aee08b665",
   "lastOpenFiles": [
-    "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
     "README.md",
+    "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
     "Classes Spring 2026/CMPT 125/CMPT 125 - Notes.md",
     "2026-02-03.md",
     "Untitled.md",
