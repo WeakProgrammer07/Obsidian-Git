@@ -297,3 +297,5 @@ Mogan Noblesse
 	- Each lobe has a right and left part
 	- The distinct parts of the brain often work together to process information and help humans navigate the world.
 	- Still, specific cognitive processes are often localized to one (or several) areas of the brain.
+- Language in the Brain
+	- 

@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0758535031e04d99",
@@ -179,10 +178,11 @@
   },
   "active": "3cc666201b05c0c0",
   "lastOpenFiles": [
-    "2026-02-03.md",
-    "Untitled.base",
-    "Untitled.md",
+    "Classes Spring 2026/CMPT 125/CMPT 125 - Notes.md",
     "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
+    "2026-02-03.md",
+    "Untitled.md",
+    "Untitled.base",
     "Classes Spring 2026/CMPT 105W/CMPT 105W - Notes.md",
     "Classes Spring 2026/CMPT 105W/READING NOTES WEEK 3,4.md",
     "Classes Spring 2026/CMPT 105W/Prep for \"Why does copyright matter\".md",
@@ -196,7 +196,6 @@
     "TEST.md",
     "Physical Notes to Obsidian Notes via Google Gemini API.md",
     "Untitled 1.md",
-    "Classes Spring 2026/CMPT 125/CMPT 125 - Notes.md",
     "Classes Spring 2026/CMPT 125",
     "Classes Spring 2026/CMPT 105W",
     "Classes Spring 2026/COGS 100",
