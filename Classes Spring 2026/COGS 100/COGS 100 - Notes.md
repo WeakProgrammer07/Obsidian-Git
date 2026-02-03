@@ -1,0 +1,299 @@
+#### General Knowledge
+- Citations in any format (APA, MLA, Chicago)
+- Do not use AI for work
+### Module 1 - The Cognitive Turn and Classical Cognitive Science
+#### Jan 8, 2026 - Origin Story of CogSci
+- People thinking about the nature of the mind
+	- Aristotle
+		- Are humans uniquely rational?
+	- Siddhartha Gautama (The Buddha)
+		- If our psychological features are always changing is the sense of a persistent self an illusion?
+	- Descartes
+		- Are the mind and body distinct substances?
+	- Princess Elisabeth of Bohemia 
+		- If the mind and body are distinct substances, then how do they interact?
+- The field of "Cognitive Science" developed recently, mostly around 1950's, despite history and inquiry into the mind
+- Cognitive Science emerged as a rejection of the dominant approach to studying human thought and action.
+- There was a push to study human thought and action scientifically as opposed to merely theoretically
+- Those who rejected behaviourism developed cognitive science
+- Behaviorism
+	- To study human though and action in a scientific way we should focus on observable behaviour (objective, outwardly visible reactions), not inner subjective experiences
+		- What does it mean to study something scientifically?
+			- Using experiments, observation, data-collection
+			- Be repeatable, data/results do not change significantly when done again or by another
+			- Studying thought and action with real world evidence
+		- Difference between objective, observable behaviour vs subjective, inner experience
+			- Objective, observable behaviour - Behaviours which can be seen and recorded by multiple individuals
+			- Subjective, inner experience - An individuals personal, first hand experience of some stimulus or event
+	- In late 1800's/early 1900's, behaviourists were saying:
+		- It is **not possible** to study subjective experience scientifically
+		- It is **possible** to study objective behaviour scientifically
+	- People in Behaviourism
+		- Ivan Pavlov: Bodily responses are adapted through conditioning
+		- J.B. Watson: Human Behaviour is learned through conditioning
+		- B.F. Skinner: Punishment and reinforcement are central for learning
+	- Physical and psychological reactions and patterns are conditioned and reinforced
+	- Reinforcement of behaviour occurs through rewards and punishments.
+	- Explanatory Power
+		- Something that helps you explain, understand, and make reliable predictions about a phenomenon
+	- Concerns with Behaviourism
+		- Prevents us from appealing to mental states and processes when trying to explain behaviour (and its causes), thereby leaving us with an incomplete explanation on behaviour.
+		- Places to much of an emphasis on conditioning and reinforcement, even though many of our behaviours are not explained by those processes.
+		- Sometimes behaviourism is just simply wrong.
+			- In 1959, Noam Chomsky argued that, in a domain like language, outward behaviour was not a reliable predictor of linguistic ability.
+			- Behaviour does not predict understanding
+- As a response to the limits of behaviourism, Cognitive Science was born
+- Rejection of behaviourism is known as the first step in the **cognitive turn**.
+- Questions
+	- If a response is conditioned, example being little Albert and the white rat, could you then later use that conditioned response to condition another response. This could say be ringing a bell and then exposing little Albert to the rat? Can this go on forever or does the effect lessen?
+#### Jan 13, 2026 - The Building Blocks of Cognitive Science
+- The rejection of behaviourism is the first step in the cognitive turn
+- Negative Project - What is wrong with an approach
+- Based on critique of behaviourists they had 2 main challenges
+	- Take seriously what's going on both inside and outside, both behaviour and inner processes/subjective experiences
+	- Find a way to study inner processes and subjective experience systematically 
+- Two kinds of inner 'stuff'
+	- Subjective Experience
+		- What its like from your perspective to perceive stimuli
+	- Mental Processes 
+		- What your mind is doing when it perceives stimuli
+- Representations
+	- Mental 'pictures' of the world which closely resemble the world
+	- Imagistic or symbolic models of the world; Semantic models of features of the world
+	- Our mental models of objects, events, feelings, and processes in the world
+- We can have different representations of the same object
+- Types of Representations
+	- Imagistic: A ‘picture’ of how the world really is
+	- Symbolic: One thing (picture, emoji, word, number) which stands in for another
+	- Semantic: A word that stands in for some object or feeling in the world
+- How do we form representations?
+- Information
+	- The world is filled with potential information 
+		- Data which can tell us things about the world we are navigating
+	- Certain information gets encoded into representations
+	- We cannot use information unless we represent it in some form
+	- Irrelevant information will either not be represented, not be represented saliently, or even if it is represented it is not used to guide actions
+	- How Information and Representation relate
+		- Main Ideas
+			- We select information from the world based on our goals
+			- We use information to build representations of the world
+			- We use those representations to guide our actions
+		- Basis for the information processing model of cognition
+#### Jan 15, 2026 - Classical Cognitive Science
+- Information Processing Model
+	- We can understand how other beings (usually humans in cog sci) work by quantifying the way information flow through the system
+		- The system = the mind, the brain, whatever is responsible for thought and action
+	- Questions we need to answer to use this model
+		- Why do we process information?
+			- To solve problems in our world
+			- To understand our environment
+			- To make predictions about others
+		- How do we process information?
+			- Through different kinds of computations
+		- How do we quantify information processing?
+			- Quantify how long it takes to perform a computation
+				- Mental Rotation Task (Shepard and Metzler (1971))
+					- Found linear relation between degrees of rotation and time to solve
+					- Assume that we already know what information you're representing
+					- Quantifying by comparing degrees of rotation of object and time spent on the computation
+					- Support the idea that human thought involves mental representations
+					- Clear example of how to scientifically test and evalualte a certain computational process (ie. the manipulation of representations)
+					- Note that there are some flaws with this experiment, but it summarizes the general idea
+			- Quantify how much information a "system" can store
+				- Working memory storage, quantifying how much information a system can process)
+				- There is a limit to how much information a system can take in
+				- This idea comes from George Miller's (1956) paper, "The Magical Number Seven, Plus of Minus Two"
+					- Proposed that our information processing channels have quantifiable capacities, on a given timescale
+					- Chunking information together to increase processing capacity
+						- Chunking, putting separate pieces of information to form one piece
+						- We can chunk information based on familiar patterns or arbitrary divisions of information that we get used to
+				- Significance of this paper
+					- Supported that we can measure exactly how much of certain types of information is being processed by the mind at a given time
+					- It suggested that minds develop strategies for processing information efficiently
+- Computation (Key Part of Information Processing Model)
+	- Computations are ways of processing information
+	- Think of mental processes as computations
+		- Selecting information
+		- Encoding information as a representation
+		- Using a representation to guide actions
+	- Computations are any mental process at any stage of information processing, from collecting initial information, to representing that information, to actually using that information.
+	- Cognition is Computation (slogan for classical cognitive science)
+- Classical Cognitive Science
+	- The ability to model the world through representations is the fundamental function of the human mind and the basis for human action
+	- The primary mechanisms enabling representation and action are computations
+	- We can quantify computational processes
+	- Allows us to develop a science of "inner stuff" of human thought and action
+- How does the information processing model of cognition compare to behaviourism
+	- Behaviourism
+		- We **respond** to stimuli
+			- Through processes of exposure, conditioning, and reinforcement
+		- We measure these responses by tracking the relationship between external stimuli and observable behaviour
+	- Information Processing Model
+		- We **process** stimuli
+			- By gathering, storing, and manipulating information about that stimuli
+		- We measure these processes by quantifying the processes or the systems capacities
+- In class response:
+	- Who worked with: Morgan Noblesse, Sarah Boey
+	- Choose one physical or mental process which interests you.
+		- Learning Mental Math
+	- Explain that process from the point of view of a behaviourist. How would a behaviourist explain how that process comes about, unfolds, gets learned, etc.?
+		- When learning is school you are rewarded for answering correctly, good grades, praise from teachers. Social reward from classmates as it is impressive potentially. Social punishment when you get it wrong as it is embarrassing, example being if you say 2 + 2 = 5, it would not be rewarding. 
+	- Explain what might be missing from (or what’s wrong with) the behaviourist’s explanation.
+		- The kids who had no reward or punishment for learning mental math, eventually end up learning the process over time
+	- Explain that same process from the point of view of a classical cognitive scientist using core concepts from the information processing model of cognition (representation, information, computation).
+		1. Setting goals: The goal designated by the student, such as memorizing multiplication tables
+		2. Based of of these goals we then can select the information that is relevant, say we are trying to figure out 4 x 3, this could then be broken down into 4 + 4 + 4
+		3. With this information based of previous experiences we are able to solve this new problem, which can then be used in the future
+	- Do you think the process you chose was better explained by behaviourism or by classical cognitive science? Explain why.
+		- In this case, and our current world environment and education system learning mental math fits better with the behaviourism explanation. This is because at a young age we are still developing the skills and not the reasoning for them, example being that we do not randomly decide "I want to learn the multiplication table" but still do it as there is a reward and punishment system in place. But there is an argument for cognitive science especially later in life, when the problems are more based on real world applications, such as budgeting, where the goal becomes to save money. 
+	
+
+#### Jan 20, 2026 - Computational Theories of Cognition
+- Cognition is Computation (slogan)
+	- What does it mean
+		- Literally - Straightforwardly true, the factual description of a thing
+			- Minds are computing machines. No difference between the core processes between a human mind and a computer.
+			- Minds and computers both function using
+				- Step by step, algorithmic procedures
+				- Symbol input, output, and manipulation
+			- Warren McCulloch and Pitts
+				- Neurons also manipulate symbols according to rules
+				- The physical instantiation of the mind may vary across machines, human, animals, but the general function is the same
+		- Metaphorically - A way of describing something to highlight similarities, even if they are not exactly the same
+			- Minds are similar to computing machines
+			- Minds and computers both function using
+				- Step by step, algorithmic procedures
+				- Symbol input, output, and manipulation
+			- **BUT** human minds, unlike computers
+				- Involve subjective experience and perceptual sensation
+				- Have parallel processing capacities (computers were unable at this time)
+		- Depends on who you ask and how they define what it means
+	- Where does it come from
+		- Turing machines - Alan Turing
+			- Introduces idea of automatic machines
+				- A theoretical machine that could formalize human-style logical decision-making.
+				- Based on a system of logic, and based on infinite storage, what problems would be solvable
+		- Information Processing Language
+			- Herbert Simon, Allen Newell, Cliff Shaw
+				- Worked for RAND
+			- A computer programming language used to store, organize, and retrieve information
+			- Later used in early AI related efforts (chess playing program)
+			- Goal was to make program that would allow computers to mimic logical thought of humans
+			- Computer Scientists were using the basis of human mind, then cognitive scientists were then thinking the human mind is kind of similar to the mind
+	- Borne out of an interest in the potential similarities between the mind and both theoretical and real computers
+#### Jan 22, 2026 - Varieties of Computationalism
+- Symbolic Processing
+	- Symbols: Things that sand in for something else
+		- ex - "cat" is an example for a real cat
+	- Representing things in the world (objects, processes, feelings) using symbols
+	- Example: I see a creature for the first time:
+			- You say it is called a bunny
+			- The word bunny is now a symbol that I use when thinking about bunnies
+			- Apply rules and descriptions to 'bunny'
+				- 'Bunny' is always smaller than building
+				- 'Bunny' hops but does not fly
+- Goals of Early Computing Theory
+	- Develop systems similarly bound by logic
+		- If x is bigger than Y but smaller than Z, Z is bigger than Y
+	- Develop machines capable of symbolic processing
+		- Systems which could take in symbols then apply logical rules to those symbols to make judgements
+- Computationalism
+	- An umbrella term for those theories which take as their starting point some version of the ides that Cognition is Computation
+- McCulloch & Pitts
+	- Turing machine provides good model for understanding neural activity: neurons also manipulate symbols according to the rules
+	- The physical instantiation of the mind may vary across machines, humans, perhaps animals - but mind core processes are the same
+	- Processes underlying human thought and action were computational
+	- When humans and computers perform computation the process is the same although the physical instantiation (hardware) is different
+- Physical Symbol Systems Hypothesis
+	- Newell and Simon (1975)
+	- A physical symbol system has the necessary and sufficient means for general intelligent action
+		- Necessary Conditions: Conditions which *must* be met
+		- Sufficient Conditions: Conditions which don't need to be met, but if they are met, it guarantees something
+	- Physical Symbol System: Any system capable of symbolic processing
+		- Physical is a bit redundant
+	- Claims that cognition is simply symbolic processing
+		- Means that it is explainable in terms of computational processes
+	- It upholds the comparison between minds and computing machines
+		- Used it to argue artificial intelligence was possible, you can have the same process which defines human cognition unfold in a machine
+- Connectionism
+	- 1980's
+	- Yes mind is a computer but not like a actually computer as it uses a different process
+	- Rumelhart and McClelland (1986)
+		- The mind is a information processor
+		- There are layers of parallel information processing
+		- Those layers are connected
+		- The architecture of those connections, and the patterns of activation occurring within that architecture, determines the content of thought and action.
+	- Connectionism vs more classical varieties of computationalism
+		- Similarities and differences between connectionism and more classic, Turing or IPL-style, symbolic based computational theories is highly debates
+		- Similarities
+			- Mind is like a computer
+			- Mind is an information processor
+		- Differences
+			- Connectionism relative focus of parallel processing and mental architecture
+			- Connectionism relative disinterest in the process of logically rule bound symbol manipulation
+
+(1) What is an example of a cognitive process which seems like a genuine cognitive process but which you cannot fully explain by appealing to computational processes alone? (e.g., a process where describing it in terms of quantifiable computations or symbolic manipulation misses something important about the process)
+
+1. Emotions seem to be a cognitive process, but it is hard to symbolize and assign values to as is needed for a computational process. How could a computation feel a sense of loss or a feeling of joy, even if it can act happy is it actually? This is also something that is hard to figure out, using AI as an example, currently AI can seem to express some emotion but that is just mimicking human feeling not its own. Even for humans it is a challenge to symbolize emotions, people can very easily have different symbolic representations.
+
+(2) Despite such cases like what you describe in (1), what is the _appeal_ of accepting the slogan "Cognition is Computation"?
+2. It makes understanding the mind seem really nice and simple, something that we can assign values and figure out. But this does not seem to be actually possible, or at least currently with my understanding. With Rumelhart and McClelland ideas it seems that since layers are connected to each other it is unlikely we will get a true understanding of exactly what the brain does. But it is possible, neural networks seem to be like this, where all of the nodes are connected with layers and seem to be incredibly similar to this idea that Rumelhart and McClelland had.
+
+(3) Would _you_ accept the slogan literally or metaphorically? Or do you have straightforward reasons for rejecting the slogan?
+3. I think that currently this slogan must be taken metaphorically, but as technology develops and we get closer to artificial general intelligence then maybe it has to be taken in a more literal way. I don't want to be the one saying that AI overlord's are not possible because based on our recent AI developments it is getting closer and closer.
+
+Mogan Noblesse
+
+### Module 2 - Brain and Cognition
+#### Jan 27, 2026 - Levels of Analysis
+- Maybe cognition is more than its computational processes
+- David Marr - 1982
+	- To understand any cognitive system (i.e the visual system) we need to study that system at 3 distinct levels
+	- Marr was a computational neuroscientist, coming from a field where researchers were trying to understand perception only by looking at the physical machinery of the brain and nervous system.
+	- Basically the other researchers should were not looking at the whole part, they were looking at only the feathers
+- Marr's Levels of Analysis
+	- Computational Level
+		- Goal ('why')
+		- What is the system goal? What is the high level strategy for achieving that goal?
+		- Example - The goal of the visual system is to recognize objects and their location in the world
+	- Algorithmic Level
+		- Method ('how')
+		- What specific algorithms/computations will the system perform to reach its goal? What inputs, outputs, and transformations are important?
+		- Example - The visual system must calculate depth, colours, and light to identify and understand objects.
+	- Implementational Level
+		- Physical Means ('with what')
+		- What physical material will be used to carry out or realize the algorithms/computations.
+		- Example - Light enters through the retina in the eyes, information is sent to the brain via the optic nerve, which eventually gets to the visual cortex.
+	- Example
+		- Computational - How can we avoid traffic congestions
+		- Algorithmic - What rules will help us avoid congestion (e.g., let the left lane go every 3 min, make one direction yield to other, etc)
+		- Implementational - Physically implementing (traffic lights, yield signs, etc)
+	- For Marr our understanding of any cognitive system is incomplete (or even inaccurate) if we are not considering each of these different levels
+#### Feb 3, 2026 - Brain Basics and Language in the Brain
+- Brain Basics
+	- Two hemispheres (Left and Right)
+	- Connected by the copus callosum
+	- Four Lobes
+		- Frontal Lobe
+			- Planning
+			- Strategizing
+			- Deliberating
+			- Short term memory (working memory)
+			- Also contains the motor cortex; used for voluntary movement
+		- Parietal Lobe
+			- Some sense perception
+				- Taste, smell, touch, temperature, pressure (not vision)
+			- Bodily Awareness
+			- Contains the somatosensory cortex; used for sense integration (senses coming together)
+		- Temporal Lobe
+			- Some sense perception
+				- Hearing
+			- Memory storing and retrieval
+			- Emotional Reaction
+			- Sense integration (visual and auditory information)
+		- Occipital Lobe
+			- Process visual info (colour, distance, depth, visual patterns)
+			- Integrate visual info with memory
+	- Each lobe has a right and left part
+	- The distinct parts of the brain often work together to process information and help humans navigate the world.
+	- Still, specific cognitive processes are often localized to one (or several) areas of the brain.

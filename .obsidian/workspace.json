@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "eeb89c2444bc0642",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b1450061e43ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc666201b05c0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "COGS 100 - Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a81f0c58a3c341a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b79df573fb498e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccadd375d299975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d343cb82818a455d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55ca19642dde0e7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0758535031e04d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "38812ab5b3e29cc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b652bf2c44085319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-02-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-03"
+            }
+          },
+          {
+            "id": "8e372c21442bfa3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86290fda85c4752b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa2ffc4e89b24db8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-03"
+            }
+          },
+          {
+            "id": "29d38fa7917c0245",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3cc666201b05c0c0",
+  "lastOpenFiles": [
+    "2026-02-03.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Classes Spring 2026/COGS 100/COGS 100 - Notes.md",
+    "Classes Spring 2026/CMPT 105W/CMPT 105W - Notes.md",
+    "Classes Spring 2026/CMPT 105W/READING NOTES WEEK 3,4.md",
+    "Classes Spring 2026/CMPT 105W/Prep for \"Why does copyright matter\".md",
+    "Classes Spring 2026/CMPT 105W/CMPT 105W - Book Report.md",
+    "Week 2.2 Reflect Class Contents.md",
+    "Dario Amodei.md",
+    "- Dario Amodei.md",
+    "CMPT 105W.md",
+    "Introduction.md",
+    "Class_Notes.md",
+    "TEST.md",
+    "Physical Notes to Obsidian Notes via Google Gemini API.md",
+    "Untitled 1.md",
+    "Classes Spring 2026/CMPT 125/CMPT 125 - Notes.md",
+    "Classes Spring 2026/CMPT 125",
+    "Classes Spring 2026/CMPT 105W",
+    "Classes Spring 2026/COGS 100",
+    "Classes Spring 2026",
+    "Untitled.canvas",
+    "2026-01-15.md",
+    "IMG_3273.JPG",
+    "IMG_3274.JPG",
+    "IMG_3263.JPG",
+    "Projects/Physical Notes to Obsidian Notes via Google Gemini API.md",
+    "IMG_3277.JPG",
+    "IMG_3276.JPG",
+    "IMG_3275.JPG",
+    "IMG_3272.JPG",
+    "SFU Courses/2026 Spring/COGS 100/Notes.md",
+    "SFU Courses/2025 Fall/MACM 101/MACM 101 Study.md",
+    "SFU Courses/2026 Spring/CMPT 105W/Notes.md",
+    "SFU Courses/2026 Spring/CMPT 105W/Book Report.md",
+    "SFU Courses/2026 Spring/CMPT 125/Notes.md",
+    "SFU Courses/2025 Fall/BUS 200/2.md",
+    "Projects",
+    "Attachments",
+    "SFU Courses",
+    "SFU Courses/2026 Spring",
+    "SFU Courses/2025 Fall",
+    "Attachments/MACM 101 - Attachments/Pasted image 20251206141325.png",
+    "Attachments/MACM 101 - Attachments/Pasted image 20251206120043.png",
+    "Attachments/MACM 101 - Attachments/Pasted image 20251206120022.png"
+  ]
+}

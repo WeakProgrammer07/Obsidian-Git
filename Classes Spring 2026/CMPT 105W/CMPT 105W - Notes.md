@@ -1,0 +1,193 @@
+#### General Info (Exam Dates, etc)
+- Grade Distribution
+	- Active Participations: 14%
+		- 70% of active participation gives 100% in category
+	- Reflections: 8%
+	- Assignments: 24%
+	- Oral Presentation: 8%
+	- Midterm: 12%
+	- Final Exam: 34%
+- Topics for Class
+	- Internet culture, social media
+	- Professional Ethics and Conduct
+	- Introduction to social science and technological theories
+	- AI, Gen AI, implications in the world and in education
+	- Ethical theories
+	- Intellectual property
+	- Cybercrime
+	- Research in explainable, ethical use of AI
+	- AI and robotics
+	- Environment and Technology
+	- Research, writing, presentation skills, time management
+- Book Club Reading, choose a book, have entire semester to read it
+- Essay Assignments
+	- Search Component
+	- Informative essay/component
+	- Argumentative/persuasive essay component
+	- Possibility to choose exact topic/perspective
+- Tests
+	- Paper and Pencil
+	- Basically any type of questions
+#### Jan 8, 2026
+- Pharrell Williams - Happy
+	- Created a bunch of copies and memes
+	- Bosnia Herzegovina 
+		- Riots and civil unrest to the song
+	- Phillipenes
+		- After typhoon
+		- Huge destruction in background, but still dancing
+- Memes
+	- Internet Phenomena
+		- Types and Examples
+			- Memes
+				- Examples
+					- Italian Brainrot
+					- 67
+					- Rickroll
+					- Skibidi Toilet
+				- Origin
+					- Richard Dawkins 1976, The Selfish Gene
+			- Catchphrases
+			- Viral Videos
+				- Viral means content spreads rapidly
+			- Jokes
+		- Get popular fast because of how fast information is able to travel
+		- Memes are usually more of an idea rather than just one specific video
+#### Jan 13, 2026
+- Machine intelligence makes human morals more important (Ted Talk)
+	- Developing programs that are in need of ethics and ethical development
+	- No exact right answer for decisions relating to human affairs
+	- Machine Learning
+		- Feed system lot of data that it learns from
+		- Probabilistic answers (this is probably what you want)
+		- Unable to fully understand what the system learned
+		- Hoping to remove human bias
+- Assignment 1
+	- Chen, Canyu, and Kai Shu. “Combating misinformation in the age of LLMS: Opportunities and challenges.” _AI Magazine_, vol. 45, no. 3, 1 Aug. 2024, pp. 354–368, https://doi.org/10.1002/aaai.12188.
+	- Misinformation such as fake news and rumors is a serious threat for information ecosystems and public trust. The emergence of large language models (LLMs) has great potential to reshape the landscape of combating misinformation. Generally, LLMs can be a double-edged sword in the fight. On the one hand, LLMs bring promising opportunities for combating misinformation due to their profound world knowledge and strong reasoning abilities. Thus, one emerging question is: _can we utilize LLMs to combat misinformation?_ On the other hand, the critical challenge is that LLMs can be easily leveraged to generate deceptive misinformation at scale. Then, another important question is: _how to combat LLM-generated misinformation?_ In this paper, we first systematically review the history of combating misinformation before the advent of LLMs. Then we illustrate the current efforts and present an outlook for these two fundamental questions, respectively. The goal of this survey paper is to facilitate the progress of utilizing LLMs for fighting misinformation and call for interdisciplinary efforts from different stakeholders for combating LLM-generated misinformation.
+	- Papagiannidis, E., Mikalef, P., & Conboy, K. (2025). Responsible artificial intelligence governance: A review and research framework. _The Journal of Strategic Information Systems_, _34_(2), 101885. https://doi.org/10.1016/j.jsis.2024.101885
+	- The widespread and rapid diffusion of artificial intelligence (AI) into all types of organizational activities necessitates the ethical and responsible deployment of these technologies. Various national and international policies, regulations, and guidelines aim to address this issue, and several organizations have developed frameworks detailing the principles of responsible AI. Nevertheless, the understanding of how such principles can be operationalized in designing, executing, monitoring, and evaluating AI applications is limited. The literature is disparate and lacks cohesion, clarity, and, in some cases, depth. Subsequently, this scoping review aims to synthesize and critically reflect on the research on responsible AI. Based on this synthesis, we developed a conceptual framework for responsible AI governance (defined through structural, relational, and procedural practices), its antecedents, and its effects. The framework serves as the foundation for developing an agenda for future research and critically reflects on the notion of responsible AI governance.
+
+#### Jan 22, 2026
+- Technological Determinism vs Social Construction of Technology
+	- Technology determines the outcome
+	- George Orwell 1984
+	- Technology is just a tool (neither good nor bad)
+		- Nor is it neutral
+		- Internet, hammer, guns
+		- We shape our tools and our tools shape us
+- Technological Determinism continued
+	- External agent that acts upon and changes society
+	- Nikolas Carr
+		- "Google is making us stupid" 
+		- "Someone or something is changing me"
+		- "When I see books, I see an outdated technology"
+	- Variants
+		- Technologies that have characteristics that are transferred to those who use them
+		- Example:
+			- Violent games lead to violent personality
+#### Jan 27, 2026
+- Obsolete - Short Documentary Trailer
+	- Advances in tech are changing how we interact with reality
+	- What happens when get replaced by something that does it better
+	- Value of human labour dropping
+	- Engineering a future that doesn't need us (Human)
+- Dr. Roman Yampolskiy
+	- Works on AI Safety
+	- We cannot make safe AI
+	- Quickly replace humans 
+		- 99% of jobs
+	- OpenAI violates safety guidelines for safe AI
+	- Idea that we are living in a simulation
+	- Can we pull the plug out?
+		- Turn off virus (can't)
+		- Turn off bitcoin (can't)
+		- Distributed System
+		- AI will turn you off before you turn it off
+	- Currently it is humans that are dangerous but will be the superintelligence in the future
+	- Haven't seen safe AI yet
+	- History of AI safety
+		- Start ambitious then fade and disappear (not able to do it)
+		- open ai was used as example
+	- Control over superintelligence is impossible
+- Yuval Harari (Speaking to leaders)
+	- AI is not just another tool
+	- AI has some independence, not fully controlled by the human
+	- AI agents can acquire will to survive
+	- AI can lie
+	- We rule because we can think better than any species on this planet
+	- Anything made of words will be taken over by AI systems
+		- If you want to influence path of humanity you must make a decision11111QQQQQQQQ` now and not later
+#### Jan 29, 2026
+- Why does copyright matter
+	- Presenters - Donald Taylor, Jennifer Zerkee
+	- Not legal advice
+	- Terminology
+		- Intellectual Property
+			- Areas of law that address non physical property (copyright, patent, etc)
+		- Works
+			- Materials; stuff that can be protecteed by copyright
+		- Creator
+			- Author, artist, composer, etc. Someone who creas copyright protected material
+		- Infringement
+			- Breaking copyright laws, by doing something only copyright owner has the right to do
+	- Copyright Protects
+		- Literary works
+		- Dramatic works
+		- Music
+		- Communication signals (broadcasts, etc)
+		- Sound recordings
+	- What it does not
+		- Thoughts and ideas
+		- Single words, short phrases, short quotes
+		- Facts and data
+		- Material in the public domain (where copyright has expired)
+	- What is copyright
+		- Right to
+			- Copy
+			- Publish
+			- Translate
+			- Adapt to another format
+			- Grant permission for others to copy and use your work
+			- Some others
+	- Different from country to country
+	- There are treaties that make them similar
+	- How does it work
+		- Effective immediately and automatically
+		- Good for life of creator +70 years
+		- Creator is usually the first owner of copyright
+		- Copyright can be shared, or transferred
+		- Users have rights too
+	- Why does it matter
+		- intended to balance benefits for creators with access to cultural materials for everyone
+		- Users rights allow for sampling, parody, critique, reporting, teaching, preservations, and research
+	- Contracts and Copyright
+		- Streaming everything means we no longer really own books, movies, or music
+		- User rights are cancelled by subscription contracts, upsetting the intended balance
+		- Technologic protection measures add more restrictions
+	- Social Benefit
+		- Provides creators with a framework to protect thier work and earn income from their creations
+		- Allows users to engage with works for education, creativity, and research
+		- Tends to keep people honest when dealing with the work of others. Appeals to our sense of fairness.
+	- Are their risks
+		- YES!
+			- Public infringement - like posting on a website increases risk
+			- Commercial infringement more likely to be noticed
+			- AI tools make it easier for infringement to be detected by rights holders
+	- Work and Career
+		- Copyright belongs to employer
+		- Infringing copyright can cost your emplyer money
+			- Also possible disciplinary actions
+			- Avoiding risk is very important to most employers
+		- Ethics
+	- GenAI
+		- Copyright is only available to a legal persons
+		- GenAI works with minimal human input thus are not protected by copyright
+		- Assistive use scenario - significant creative human input is the use of GenAI tool
+		- To prove copyright ownership, proof of original and inventive human input should be recorded and retained
+	- Deepfakes
+		- Mostly privacy and personality matter and not copyright
+		- Many country working on legislation
+		- Canada has limited legal tools for individuals to take action against deep fakes
+		- No right to personality or protection in Canada unless there is economic damages
+-  
