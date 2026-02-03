@@ -298,4 +298,15 @@ Mogan Noblesse
 	- The distinct parts of the brain often work together to process information and help humans navigate the world.
 	- Still, specific cognitive processes are often localized to one (or several) areas of the brain.
 - Language in the Brain
-	- 
+	- Complex process:
+		- Speech (articulating sounds with ones voice)
+		- Semantics (learning and correctly using the meaning of words)
+		- Syntax (combining words grammatically)
+		- Creativity (making or understanding new words)
+		- Social interaction (using language to communicate with others, making sure we are understood)
+	- Because language is so complex and involves so many different processes, it uses several different areas in the brain for distinct aspects of its functioning
+	- Language is primarily left-lateralized
+		- Functioning happens mostly on the left brain hemisphere
+		- Does not mean it is completely in left hemisphere
+	- Left-Lateralization is thought to be tied to the fact that humans have a preference for right handedness
+
