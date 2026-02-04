@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COGS 100 - Notes"
+              "title": "README"
             }
           }
         ]
@@ -176,14 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bccadd375d299975",
+  "active": "a7f1a63aee08b665",
   "lastOpenFiles": [
+    "SFU Courses/2025 Fall/MACM 101/Practice Questions.md",
+    "SFU Courses/2025 Fall/MACM 101/MACM 101 Study.md",
+    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
     "SFU Courses/2026 Spring/MATH 232/Notes.md",
     "SFU Courses/2026 Spring/COGS 100/Notes.md",
     "SFU Courses/2026 Spring/CMPT 125/Notes.md",
     "SFU Courses/2026 Spring/CMPT 105W/Notes.md",
-    "SFU Courses/2025 Fall/MACM 101/Practice Questions.md",
-    "SFU Courses/2025 Fall/MACM 101/MACM 101 Study.md",
     "SFU Courses/2025 Fall/BUS 200/bus practice 1.md",
     "SFU Courses/2025 Fall/BUS 200/Bus Practice.md",
     "SFU Courses/2025 Fall/BUS 200/7.md",
@@ -214,7 +215,6 @@
     "Attachments/MACM 101 - Attachments/Pasted image 20251206113336.png",
     "Attachments/MACM 101 - Attachments",
     "README.md",
-    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
     "SFU Courses/2026 Spring/CMPT 125/CMPT 125 - Notes.md",
     "2026-02-03.md",
     "Untitled.md",
