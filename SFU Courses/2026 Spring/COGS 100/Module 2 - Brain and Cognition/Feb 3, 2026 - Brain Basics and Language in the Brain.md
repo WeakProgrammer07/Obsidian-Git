@@ -1,0 +1,40 @@
+- Brain Basics
+	- Two hemispheres (Left and Right)
+	- Connected by the copus callosum
+	- Four Lobes
+		- Frontal Lobe
+			- Planning
+			- Strategizing
+			- Deliberating
+			- Short term memory (working memory)
+			- Also contains the motor cortex; used for voluntary movement
+		- Parietal Lobe
+			- Some sense perception
+				- Taste, smell, touch, temperature, pressure (not vision)
+			- Bodily Awareness
+			- Contains the somatosensory cortex; used for sense integration (senses coming together)
+		- Temporal Lobe
+			- Some sense perception
+				- Hearing
+			- Memory storing and retrieval
+			- Emotional Reaction
+			- Sense integration (visual and auditory information)
+		- Occipital Lobe
+			- Process visual info (colour, distance, depth, visual patterns)
+			- Integrate visual info with memory
+	- Each lobe has a right and left part
+	- The distinct parts of the brain often work together to process information and help humans navigate the world.
+	- Still, specific cognitive processes are often localized to one (or several) areas of the brain.
+- Language in the Brain
+	- Complex process:
+		- Speech (articulating sounds with ones voice)
+		- Semantics (learning and correctly using the meaning of words)
+		- Syntax (combining words grammatically)
+		- Creativity (making or understanding new words)
+		- Social interaction (using language to communicate with others, making sure we are understood)
+	- Because language is so complex and involves so many different processes, it uses several different areas in the brain for distinct aspects of its functioning
+	- Language is primarily left-lateralized
+		- Functioning happens mostly on the left brain hemisphere
+		- Does not mean it is completely in left hemisphere
+	- Left-Lateralization is thought to be tied to the fact that humans have a preference for right handedness
+	- 

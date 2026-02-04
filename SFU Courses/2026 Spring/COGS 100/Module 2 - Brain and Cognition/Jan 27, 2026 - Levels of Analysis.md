@@ -1,0 +1,23 @@
+- Maybe cognition is more than its computational processes
+- David Marr - 1982
+	- To understand any cognitive system (i.e the visual system) we need to study that system at 3 distinct levels
+	- Marr was a computational neuroscientist, coming from a field where researchers were trying to understand perception only by looking at the physical machinery of the brain and nervous system.
+	- Basically the other researchers should were not looking at the whole part, they were looking at only the feathers
+- Marr's Levels of Analysis
+	- Computational Level
+		- Goal ('why')
+		- What is the system goal? What is the high level strategy for achieving that goal?
+		- Example - The goal of the visual system is to recognize objects and their location in the world
+	- Algorithmic Level
+		- Method ('how')
+		- What specific algorithms/computations will the system perform to reach its goal? What inputs, outputs, and transformations are important?
+		- Example - The visual system must calculate depth, colours, and light to identify and understand objects.
+	- Implementational Level
+		- Physical Means ('with what')
+		- What physical material will be used to carry out or realize the algorithms/computations.
+		- Example - Light enters through the retina in the eyes, information is sent to the brain via the optic nerve, which eventually gets to the visual cortex.
+	- Example
+		- Computational - How can we avoid traffic congestions
+		- Algorithmic - What rules will help us avoid congestion (e.g., let the left lane go every 3 min, make one direction yield to other, etc)
+		- Implementational - Physically implementing (traffic lights, yield signs, etc)
+	- For Marr our understanding of any cognitive system is incomplete (or even inaccurate) if we are not considering each of these different levels

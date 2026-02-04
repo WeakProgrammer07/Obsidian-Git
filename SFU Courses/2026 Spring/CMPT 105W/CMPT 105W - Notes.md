@@ -190,4 +190,16 @@
 		- Many country working on legislation
 		- Canada has limited legal tools for individuals to take action against deep fakes
 		- No right to personality or protection in Canada unless there is economic damages
--  
+#### Feb 3, 2026
+- TA open discussion sessions
+	- Can give some active participation marks (good for if miss a class)
+	- Feedback for writing
+- Literature search and information sources
+	- Library Services and Resources
+	- Information Gathering
+		- Research Question
+		- Develop Search Strategy
+		- Choose Information Resources
+		- Locate Relevant Sources
+		- Manage References
+	- Search Strategies

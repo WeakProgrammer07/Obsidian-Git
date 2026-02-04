@@ -1,0 +1,32 @@
+- The rejection of behaviourism is the first step in the cognitive turn
+- Negative Project - What is wrong with an approach
+- Based on critique of behaviourists they had 2 main challenges
+	- Take seriously what's going on both inside and outside, both behaviour and inner processes/subjective experiences
+	- Find a way to study inner processes and subjective experience systematically 
+- Two kinds of inner 'stuff'
+	- Subjective Experience
+		- What its like from your perspective to perceive stimuli
+	- Mental Processes 
+		- What your mind is doing when it perceives stimuli
+- Representations
+	- Mental 'pictures' of the world which closely resemble the world
+	- Imagistic or symbolic models of the world; Semantic models of features of the world
+	- Our mental models of objects, events, feelings, and processes in the world
+- We can have different representations of the same object
+- Types of Representations
+	- Imagistic: A ‘picture’ of how the world really is
+	- Symbolic: One thing (picture, emoji, word, number) which stands in for another
+	- Semantic: A word that stands in for some object or feeling in the world
+- How do we form representations?
+- Information
+	- The world is filled with potential information 
+		- Data which can tell us things about the world we are navigating
+	- Certain information gets encoded into representations
+	- We cannot use information unless we represent it in some form
+	- Irrelevant information will either not be represented, not be represented saliently, or even if it is represented it is not used to guide actions
+	- How Information and Representation relate
+		- Main Ideas
+			- We select information from the world based on our goals
+			- We use information to build representations of the world
+			- We use those representations to guide our actions
+		- Basis for the information processing model of cognition

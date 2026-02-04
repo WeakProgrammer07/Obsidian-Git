@@ -1,0 +1,43 @@
+- People thinking about the nature of the mind
+	- Aristotle
+		- Are humans uniquely rational?
+	- Siddhartha Gautama (The Buddha)
+		- If our psychological features are always changing is the sense of a persistent self an illusion?
+	- Descartes
+		- Are the mind and body distinct substances?
+	- Princess Elisabeth of Bohemia 
+		- If the mind and body are distinct substances, then how do they interact?
+- The field of "Cognitive Science" developed recently, mostly around 1950's, despite history and inquiry into the mind
+- Cognitive Science emerged as a rejection of the dominant approach to studying human thought and action.
+- There was a push to study human thought and action scientifically as opposed to merely theoretically
+- Those who rejected behaviourism developed cognitive science
+- Behaviorism
+	- To study human though and action in a scientific way we should focus on observable behaviour (objective, outwardly visible reactions), not inner subjective experiences
+		- What does it mean to study something scientifically?
+			- Using experiments, observation, data-collection
+			- Be repeatable, data/results do not change significantly when done again or by another
+			- Studying thought and action with real world evidence
+		- Difference between objective, observable behaviour vs subjective, inner experience
+			- Objective, observable behaviour - Behaviours which can be seen and recorded by multiple individuals
+			- Subjective, inner experience - An individuals personal, first hand experience of some stimulus or event
+	- In late 1800's/early 1900's, behaviourists were saying:
+		- It is **not possible** to study subjective experience scientifically
+		- It is **possible** to study objective behaviour scientifically
+	- People in Behaviourism
+		- Ivan Pavlov: Bodily responses are adapted through conditioning
+		- J.B. Watson: Human Behaviour is learned through conditioning
+		- B.F. Skinner: Punishment and reinforcement are central for learning
+	- Physical and psychological reactions and patterns are conditioned and reinforced
+	- Reinforcement of behaviour occurs through rewards and punishments.
+	- Explanatory Power
+		- Something that helps you explain, understand, and make reliable predictions about a phenomenon
+	- Concerns with Behaviourism
+		- Prevents us from appealing to mental states and processes when trying to explain behaviour (and its causes), thereby leaving us with an incomplete explanation on behaviour.
+		- Places to much of an emphasis on conditioning and reinforcement, even though many of our behaviours are not explained by those processes.
+		- Sometimes behaviourism is just simply wrong.
+			- In 1959, Noam Chomsky argued that, in a domain like language, outward behaviour was not a reliable predictor of linguistic ability.
+			- Behaviour does not predict understanding
+- As a response to the limits of behaviourism, Cognitive Science was born
+- Rejection of behaviourism is known as the first step in the **cognitive turn**.
+- Questions
+	- If a response is conditioned, example being little Albert and the white rat, could you then later use that conditioned response to condition another response. This could say be ringing a bell and then exposing little Albert to the rat? Can this go on forever or does the effect lessen?

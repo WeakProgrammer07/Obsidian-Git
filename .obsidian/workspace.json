@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "COGS 100 - Notes"
             }
           }
         ]
@@ -156,6 +156,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ca6c44d203409876",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for COGS 100 - Notes"
+            }
           }
         ],
         "currentTab": 4
@@ -178,9 +197,24 @@
   },
   "active": "a7f1a63aee08b665",
   "lastOpenFiles": [
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 8, 2026 - Origin Story of CogSci.md",
+    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 3, 2026 - Brain Basics and Language in the Brain.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Jan 27, 2026 - Levels of Analysis.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition",
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 15, 2026 - Classical Cognitive Science.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 22, 2026 - Varieties of Computationalism.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science",
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 20, 2026 - Computational Theories of Cognition.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 13, 2026 - The Building Blocks of Cognitive Science.md",
+    "Module 1 - The Cognitive Turn and Classical Cognitive Science.md",
+    "SFU Courses/2026 Spring/CMPT 105W/CMPT 105W - Notes.md",
+    "SFU Courses/2026 Spring/CMPT 105W/Prep for \"Why does copyright matter\".md",
+    "SFU Courses/2026 Spring/CMPT 105W/READING NOTES WEEK 3,4.md",
+    "SFU Courses/2026 Spring/CMPT 125/CMPT 125 - Notes.md",
+    "README.md",
     "SFU Courses/2025 Fall/MACM 101/Practice Questions.md",
     "SFU Courses/2025 Fall/MACM 101/MACM 101 Study.md",
-    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes.md",
     "SFU Courses/2026 Spring/MATH 232/Notes.md",
     "SFU Courses/2026 Spring/COGS 100/Notes.md",
     "SFU Courses/2026 Spring/CMPT 125/Notes.md",
@@ -191,9 +225,6 @@
     "SFU Courses/2025 Fall/BUS 200/6.md",
     "SFU Courses/2025 Fall/BUS 200/5.md",
     "SFU Courses/2025 Fall/BUS 200/4.md",
-    "SFU Courses/2025 Fall/BUS 200/3.md",
-    "SFU Courses/2025 Fall/BUS 200/2.md",
-    "SFU Courses/2025 Fall/BUS 200/1.md",
     "SFU Courses/2026 Spring/MATH 232",
     "SFU Courses/2026 Spring/COGS 100",
     "SFU Courses/2026 Spring/CMPT 125",
@@ -202,7 +233,6 @@
     "SFU Courses/2025 Fall/BUS 200",
     "SFU Courses/2026 Spring",
     "SFU Courses/2025 Fall",
-    "SFU Courses",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206141325.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206120043.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206120022.png",
@@ -213,17 +243,6 @@
     "Attachments/MACM 101 - Attachments/Pasted image 20251206113855.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206113514.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206113336.png",
-    "Attachments/MACM 101 - Attachments",
-    "README.md",
-    "SFU Courses/2026 Spring/CMPT 125/CMPT 125 - Notes.md",
-    "2026-02-03.md",
-    "Untitled.md",
-    "SFU Courses/2026 Spring/CMPT 105W/CMPT 105W - Notes.md",
-    "SFU Courses/2026 Spring/CMPT 105W/READING NOTES WEEK 3,4.md",
-    "SFU Courses/2026 Spring/CMPT 105W/Prep for \"Why does copyright matter\".md",
-    "SFU Courses/2026 Spring/CMPT 105W/CMPT 105W - Book Report.md",
-    "Week 2.2 Reflect Class Contents.md",
-    "Dario Amodei.md",
     "Untitled.canvas"
   ]
 }

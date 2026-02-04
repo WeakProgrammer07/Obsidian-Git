@@ -1,0 +1,32 @@
+- Cognition is Computation (slogan)
+	- What does it mean
+		- Literally - Straightforwardly true, the factual description of a thing
+			- Minds are computing machines. No difference between the core processes between a human mind and a computer.
+			- Minds and computers both function using
+				- Step by step, algorithmic procedures
+				- Symbol input, output, and manipulation
+			- Warren McCulloch and Pitts
+				- Neurons also manipulate symbols according to rules
+				- The physical instantiation of the mind may vary across machines, human, animals, but the general function is the same
+		- Metaphorically - A way of describing something to highlight similarities, even if they are not exactly the same
+			- Minds are similar to computing machines
+			- Minds and computers both function using
+				- Step by step, algorithmic procedures
+				- Symbol input, output, and manipulation
+			- **BUT** human minds, unlike computers
+				- Involve subjective experience and perceptual sensation
+				- Have parallel processing capacities (computers were unable at this time)
+		- Depends on who you ask and how they define what it means
+	- Where does it come from
+		- Turing machines - Alan Turing
+			- Introduces idea of automatic machines
+				- A theoretical machine that could formalize human-style logical decision-making.
+				- Based on a system of logic, and based on infinite storage, what problems would be solvable
+		- Information Processing Language
+			- Herbert Simon, Allen Newell, Cliff Shaw
+				- Worked for RAND
+			- A computer programming language used to store, organize, and retrieve information
+			- Later used in early AI related efforts (chess playing program)
+			- Goal was to make program that would allow computers to mimic logical thought of humans
+			- Computer Scientists were using the basis of human mind, then cognitive scientists were then thinking the human mind is kind of similar to the mind
+	- Borne out of an interest in the potential similarities between the mind and both theoretical and real computers

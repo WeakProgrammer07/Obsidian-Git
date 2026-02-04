@@ -1,0 +1,67 @@
+- Information Processing Model
+	- We can understand how other beings (usually humans in cog sci) work by quantifying the way information flow through the system
+		- The system = the mind, the brain, whatever is responsible for thought and action
+	- Questions we need to answer to use this model
+		- Why do we process information?
+			- To solve problems in our world
+			- To understand our environment
+			- To make predictions about others
+		- How do we process information?
+			- Through different kinds of computations
+		- How do we quantify information processing?
+			- Quantify how long it takes to perform a computation
+				- Mental Rotation Task (Shepard and Metzler (1971))
+					- Found linear relation between degrees of rotation and time to solve
+					- Assume that we already know what information you're representing
+					- Quantifying by comparing degrees of rotation of object and time spent on the computation
+					- Support the idea that human thought involves mental representations
+					- Clear example of how to scientifically test and evalualte a certain computational process (ie. the manipulation of representations)
+					- Note that there are some flaws with this experiment, but it summarizes the general idea
+			- Quantify how much information a "system" can store
+				- Working memory storage, quantifying how much information a system can process)
+				- There is a limit to how much information a system can take in
+				- This idea comes from George Miller's (1956) paper, "The Magical Number Seven, Plus of Minus Two"
+					- Proposed that our information processing channels have quantifiable capacities, on a given timescale
+					- Chunking information together to increase processing capacity
+						- Chunking, putting separate pieces of information to form one piece
+						- We can chunk information based on familiar patterns or arbitrary divisions of information that we get used to
+				- Significance of this paper
+					- Supported that we can measure exactly how much of certain types of information is being processed by the mind at a given time
+					- It suggested that minds develop strategies for processing information efficiently
+- Computation (Key Part of Information Processing Model)
+	- Computations are ways of processing information
+	- Think of mental processes as computations
+		- Selecting information
+		- Encoding information as a representation
+		- Using a representation to guide actions
+	- Computations are any mental process at any stage of information processing, from collecting initial information, to representing that information, to actually using that information.
+	- Cognition is Computation (slogan for classical cognitive science)
+- Classical Cognitive Science
+	- The ability to model the world through representations is the fundamental function of the human mind and the basis for human action
+	- The primary mechanisms enabling representation and action are computations
+	- We can quantify computational processes
+	- Allows us to develop a science of "inner stuff" of human thought and action
+- How does the information processing model of cognition compare to behaviourism
+	- Behaviourism
+		- We **respond** to stimuli
+			- Through processes of exposure, conditioning, and reinforcement
+		- We measure these responses by tracking the relationship between external stimuli and observable behaviour
+	- Information Processing Model
+		- We **process** stimuli
+			- By gathering, storing, and manipulating information about that stimuli
+		- We measure these processes by quantifying the processes or the systems capacities
+- In class response:
+	- Who worked with: Morgan Noblesse, Sarah Boey
+	- Choose one physical or mental process which interests you.
+		- Learning Mental Math
+	- Explain that process from the point of view of a behaviourist. How would a behaviourist explain how that process comes about, unfolds, gets learned, etc.?
+		- When learning is school you are rewarded for answering correctly, good grades, praise from teachers. Social reward from classmates as it is impressive potentially. Social punishment when you get it wrong as it is embarrassing, example being if you say 2 + 2 = 5, it would not be rewarding. 
+	- Explain what might be missing from (or what’s wrong with) the behaviourist’s explanation.
+		- The kids who had no reward or punishment for learning mental math, eventually end up learning the process over time
+	- Explain that same process from the point of view of a classical cognitive scientist using core concepts from the information processing model of cognition (representation, information, computation).
+		1. Setting goals: The goal designated by the student, such as memorizing multiplication tables
+		2. Based of of these goals we then can select the information that is relevant, say we are trying to figure out 4 x 3, this could then be broken down into 4 + 4 + 4
+		3. With this information based of previous experiences we are able to solve this new problem, which can then be used in the future
+	- Do you think the process you chose was better explained by behaviourism or by classical cognitive science? Explain why.
+		- In this case, and our current world environment and education system learning mental math fits better with the behaviourism explanation. This is because at a young age we are still developing the skills and not the reasoning for them, example being that we do not randomly decide "I want to learn the multiplication table" but still do it as there is a reward and punishment system in place. But there is an argument for cognitive science especially later in life, when the problems are more based on real world applications, such as budgeting, where the goal becomes to save money. 
+	
