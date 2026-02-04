@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Random/Cool Stuff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cool Stuff"
             }
           }
         ]
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-02-03.md",
+                "file": "Random/Cool Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-02-03"
+              "title": "Outgoing links from Cool Stuff"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-03.md",
+                "file": "Random/Cool Stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-03"
+              "title": "Outline of Cool Stuff"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Random/Cool Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Cool Stuff"
             }
           }
         ],
@@ -197,6 +197,12 @@
   },
   "active": "a7f1a63aee08b665",
   "lastOpenFiles": [
+    "Career Planning/Potential Project (Gemini Deep Research).md",
+    "Random/Cool Stuff.md",
+    "Random",
+    "Random.md",
+    "README.md",
+    "Career Planning",
     "SFU Courses/2025 Fall/BUS 200/Chapter Summaries/Chapter 1.md",
     "SFU Courses/2025 Fall/BUS 200/Chapter Summaries/Chapter 2.md",
     "SFU Courses/2025 Fall/BUS 200/Chapter Summaries/Chapter 3.md",
@@ -211,7 +217,6 @@
     "SFU Courses/2025 Fall/MACM 101/Practice Questions.md",
     "SFU Courses/2025 Fall/MACM 101/MACM 101 Study.md",
     "SFU Courses/2026 Spring/CMPT 125/CMPT 125 - Notes.md",
-    "README.md",
     "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes Guide.md",
     "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Jan 27, 2026 - Levels of Analysis.md",
     "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 3, 2026 - Brain Basics and Language in the Brain.md",
@@ -222,16 +227,12 @@
     "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 8, 2026 - Origin Story of CogSci.md",
     "SFU Courses/2026 Spring/CMPT 105W/CMPT 105W - Notes.md",
     "SFU Courses/2026 Spring/CMPT 105W/Prep for \"Why does copyright matter\".md",
-    "SFU Courses/2026 Spring/CMPT 105W/READING NOTES WEEK 3,4.md",
     "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition",
     "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science",
-    "Module 1 - The Cognitive Turn and Classical Cognitive Science.md",
     "SFU Courses/2026 Spring/MATH 232",
     "SFU Courses/2026 Spring/COGS 100",
     "SFU Courses/2026 Spring/CMPT 125",
     "SFU Courses/2026 Spring/CMPT 105W",
-    "SFU Courses/2025 Fall/MACM 101",
-    "SFU Courses/2025 Fall/BUS 200",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206141325.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206120043.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206120022.png",
