@@ -81,4 +81,5 @@
 	- The elements are stored in the memory in a continuous block (one after other)
 	- Size of int = 4 bytes
 		- This means that arr + i really increases by i*(sizeof(int))
-
+#### Feb 4, 2026
+- 
