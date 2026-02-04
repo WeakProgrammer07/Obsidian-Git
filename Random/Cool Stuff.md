@@ -89,6 +89,30 @@ url: "https://www.garmin.com/en-CA/p/1314137/pn/010-02932-00/"
 favicon: ""
 aspectRatio: "100"
 ```
-
-
-
+#### Arc'tyrx
+```embed
+title: "Kopec GTX Shoe Men's"
+image: "https://images-dynamic-arcteryx.imgix.net/details/1350x1710/S26-X000010023-Kopec-GTX-Shoe-Atmos-Lt-Rune-Profile.jpg"
+description: "Waterproof low-collar hiking shoe for fast and light travel on shifting terrain."
+url: "https://arcteryx.com/ca/en/shop/mens/kopec-gtx-shoe-0023"
+favicon: ""
+aspectRatio: "133.33333333333331"
+```
+#### Cotopaxi
+```embed
+title: "Allpa 42L Travel Pack"
+image: "http://ca.cotopaxi.com/cdn/shop/files/1200x1200png-F25UAllpa42LTravelPackFig_F.png?v=1758960451"
+description: "Our Allpa 42L reflects our quest for pack perfection. Fan-favorite features include better weight distribution and air mesh shoulder straps for an ultra-comfortable carry, an exterior stretch water bottle pocket, and a luggage pass-through strap that easily slides over the handle of a roller bag (like our Allpa Roller "
+url: "https://ca.cotopaxi.com/collections/bestselling-packs/products/allpa-42l-travel-pack-3?variant=44530210373772"
+favicon: ""
+aspectRatio: "100"
+```
+#### Rite in the Rain
+```embed
+title: "Rite in the Rain Monsoon Tracker Cover, No. M973-Kit"
+image: "https://d163axztg8am2h.cloudfront.net/static/img/d4/76/3dc5ece19712e9c9edd7aa03ce29.webp"
+description: "MONSOON Tracker Kit "
+url: "https://www.riteintherain.com/monsoon-tracker-kit#M973"
+favicon: ""
+aspectRatio: "100"
+```
