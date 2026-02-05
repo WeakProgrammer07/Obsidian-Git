@@ -6,13 +6,13 @@ Build a generative AI application using Amazon Nova on AWS. We encourage submis
 - **Voice AI**: Create real-time conversational voice experiences using Nova 2 Sonic.
 - **Freestyle**: If your project doesn’t fit into the above categories, submit it under the Freestyle category
 #### Judging Criteria
-- **Technical Implementation - 60%**  
+- **Technical Implementation - 60%**
     Includes the quality, effectiveness, successful integration with Amazon Nova, and overall system architecture.
-- **Enterprise or Community Impact - 20%**  
+- **Enterprise or Community Impact - 20%**
     Assesses how the solution delivers business value or creates meaningful benefits for communities.
-- **Creativity and Innovation - 20%**  
+- **Creativity and Innovation - 20%**
     Includes the novelty of the approach and innovative use of multi-agent systems to solve real-world problems
-- **Feedback Submission Judging Criteria**  
+- **Feedback Submission Judging Criteria**
     Eligible Feedback Submissions will be evaluated based on the completeness, viability, and potential impact of the feedback
-- **Blog Post Judging Criteria**  
+- **Blog Post Judging Criteria**
     Evaluated on completeness and potential impact of the submissions that cover how your Project can positively affect your target community and discusses the potential benefits, envisioned real-world application, and any plans for encouraging adoption.
