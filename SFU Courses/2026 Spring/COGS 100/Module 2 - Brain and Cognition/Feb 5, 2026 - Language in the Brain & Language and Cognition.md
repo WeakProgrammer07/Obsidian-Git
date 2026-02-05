@@ -1,1 +1,31 @@
-- 
+- Language in the Brain
+	- Broca's Area
+		- Language production centre
+		- Left Hemisphere; Frontal Lobe
+		- Involved in
+			- Muscle movements for speech
+			- Verbal woking memory
+			- Syntax/Grammar
+		- Broca's Aphasia: Damage in this area may cause difficulties with language production, but does not impact the ability to understand language
+	- Wernicke's Area
+		- Language comprehension centre
+		- Left Hemisphere; Intersection of temporal and parietal lobe
+		- Involved in
+			- Production of written and spoken language
+			- Early language acquisition
+			- Word recognition
+		- Wernicke's Aphasia: Damage in this area may cause issues with using words with the correct meanings and understanding language. Though it tends not to impact the production of grammatical language
+	- Angular Gyrus
+		- Meaning centre
+		- Left Angular Gyrus
+			- Left Hemisphere; Parietal lobe, sits near intersection of temporal, occipital, and parietal lobe
+			- Involved in
+				- Semantic processing
+				- integration of visual, auditory, and sensory information for language comprehension and production
+				- Sending visual info to Wernicke’s Area
+				- Transitioning between language modalities (written to spoken)
+- Language and Cognition
+	- Goal: Understand how language processes play a role in cognition (how we think and act). Base our understanding on what we know about how aspects of language operate in the brain
+	- Language of Thought: How do the features of language shape the structure of cognition?
+	- Language and Experience: How do the words we know or the languages we speak influence our experience and thinking in the world?
+		- How do the words we know or the languages we speak influence our experience and thinking in the world?
