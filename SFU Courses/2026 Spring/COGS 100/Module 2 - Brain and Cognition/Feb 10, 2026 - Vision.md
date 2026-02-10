@@ -31,3 +31,10 @@
 		- Easy to measure
 	- Might tell us something about cognition in general
 		- Because of the integration of high and low level processing
+- Intersubjectivity
+	- Cognitive experiences which we can communicate about and share with others
+		- Cognitive experience is any thinking experience, in this context a perceptual experience. Coming into contact with something via senses
+	- Vision has a higher degree compared to other senses
+		- Easier to describe visual stimuli
+		- Easier to validate because we perceive them as determinate objects 
+		- More consistent relationship between stimuli and perception across humans
