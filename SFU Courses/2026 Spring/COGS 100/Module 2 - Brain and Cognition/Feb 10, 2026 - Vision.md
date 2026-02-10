@@ -1,0 +1,33 @@
+- Vision is a perceptual system
+- Perception: The process of gathering, interpreting, and using sensory information from our environment
+- Sensory information: Information we get from our sensory experience
+- Perception is fundamental to cognition, because how we learn and interact in the world comes through sensory experience
+- Some forms of perception are more studied
+	- 5 Basic senes: Sight, Taste, Smell, Touch, Hearing
+	- Vision is the most studied
+		- Valid/Legit Reasons
+			- Vision involves integration of high and low level processes
+				- Low Level: Recognizing colours, edges
+				- High Level: Recognizing faces, shapes, distances, making predictions
+			- Seems to involve more parts of the brain than other senses
+			- Human culture is vision-centric
+		- Dubious Reasons
+			- Vision is the most complex sense
+			- Vision is the most important sense to humans
+			- Question to this $\to$ How would we know these things without equal studies of the other senses?
+	- Taste and smell are connected and understudied
+- Vision tells us what is present in the world and where those things are - David Marr
+	- Same guy as 3 levels of analysis
+- Occipital lobe is home to the primary visual cortex, but vision uses many different parts
+- Dorsal Stream
+	- "Where" pathway
+	- Occipital lobe through the parietal lobe
+- Ventral Stream 
+	- "How" pathway
+	- Occipital lobe through the temporal lobe
+- Why is vision so important
+	- Its a sensory modality that we can communicate about easily with others
+		- Leads to it being important to culture
+		- Easy to measure
+	- Might tell us something about cognition in general
+		- Because of the integration of high and low level processing
