@@ -22,5 +22,28 @@
 - Two other important parts
 	- Olfactory bulb
 	- Olfactory epithelium
-
-
+	- The olfactory epithelium and olfactory bulb intake olfactory information (odour molecules) and send that information to other parts of the brain for processing
+	- During olfactory processing, we identify what odours are and extract information about the odours (strong, weak, dangerous, nutritive value).
+	- Olfaction seems to be more directly related to emotion and memory compared to other senses
+	- There’s some degree of variation across how people encode olfactory information.
+- In general, relatively little is known about how odours get encoded into representations of odours in the brain
+- Explanations to the variety in olfactory processing
+	- Genetic
+		- Can only express some of our olfactory genes
+		- Example - Cilantro taste like soap
+	- Signal Complexity
+		- Vary base on other physiological states like stress or pregnancy
+	- Experience
+		- Everyone has different emotions and memories
+- Kinds of olfactory variation
+	- Whether something is smelled
+	- What is being smelled
+	- The intensity and character of what is being smelled
+- When it comes to ‘what’ is being smelled, it’s not even clear that we can report about specific, concrete perceptual objects through olfaction
+- Perceptual objects:
+	- An entity that is known through perception.
+- We tend to think that perceptual objects are structured by space and time
+- Are there olfactory objects?
+	- Olfactory stimuli don't always present themselves
+	- Attention, memory, emotion, and culture seem to be doing heavy lifting with creating associations between words and odour molecules
+	- Same odour molecules are not always associated with the same words. "Coffee" can pick out different smells

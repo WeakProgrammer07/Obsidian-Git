@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 12, 2026 - Olfaction.md",
+                "file": "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 10, 2026 - Vision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Feb 12, 2026 - Olfaction"
+              "title": "Feb 10, 2026 - Vision"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0758535031e04d99",
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 12, 2026 - Olfaction.md",
+                "file": "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 10, 2026 - Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feb 12, 2026 - Olfaction"
+              "title": "Backlinks for Feb 10, 2026 - Vision"
             }
           }
         ],
@@ -199,9 +198,9 @@
   },
   "active": "a7f1a63aee08b665",
   "lastOpenFiles": [
+    "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 12, 2026 - Olfaction.md",
     "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Jan 27, 2026 - Levels of Analysis.md",
     "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes Guide.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 12, 2026 - Olfaction.md",
     "SFU Courses/2026 Spring/COGS 100/Module 1 - The Cognitive Turn and Classical Cognitive Science/Jan 8, 2026 - Origin Story of CogSci.md",
     "SFU Courses/2026 Spring/COGS 100/Module 2 - Brain and Cognition/Feb 10, 2026 - Vision.md",
     "SFU Courses/2026 Spring/CMPT 105W/CMPT 105W - Notes.md",
