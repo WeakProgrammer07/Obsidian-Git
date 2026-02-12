@@ -13,3 +13,4 @@
 [[Feb 3, 2026 - Brain Basics and Language in the Brain]]
 [[Feb 5, 2026 - Language in the Brain & Language and Cognition]]
 [[Feb 10, 2026 - Vision]]
+[[Feb 12, 2026 - Olfaction]]

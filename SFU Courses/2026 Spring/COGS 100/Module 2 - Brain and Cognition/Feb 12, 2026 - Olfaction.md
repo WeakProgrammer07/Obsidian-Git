@@ -1,0 +1,26 @@
+- The sense of smell
+- Allows us to detect and identify odours in the environment
+	- Computational level description
+- Detecting odours
+	- There is something that smells strange/good/rotten/etc
+- Identifying odours
+	- "I smell coffee"
+- Olfaction evolved with the metabolic system, to help identify food odours, nutrients, and hormonal odours for behavioural stability
+- Olfaction is thought to play a broader role in cognition for other species
+	- Example - Dogs
+	- But for humans it is more specific
+- The primary olfactory cortex
+	- piriform cortex
+	- amygdala
+	- entorhinal cortex
+	- The primary olfactory cortex receives information directly from the olfactory bulb and extracts early information about odour, like intensity or quality
+- The secondary olfactory cortex
+	- insular cortex
+	- orbitofrontal cortex
+	- Secondary olfactory cortex identifies information about the relevance of the smell – is it tasty or otherwise worth paying attention to?
+- Odours get both detected and identified through the processing which occurs in the primary and secondary olfactory cortices
+- Two other important parts
+	- Olfactory bulb
+	- Olfactory epithelium
+
+
