@@ -14,3 +14,5 @@
 [[Feb 5, 2026 - Language in the Brain & Language and Cognition]]
 [[Feb 10, 2026 - Vision]]
 [[Feb 12, 2026 - Olfaction]]
+
+[[Feb 24, 2026 - Dualism and Physicalism, pt 1]]
