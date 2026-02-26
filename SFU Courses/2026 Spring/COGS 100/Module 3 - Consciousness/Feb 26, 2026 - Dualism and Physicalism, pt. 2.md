@@ -25,3 +25,14 @@
 	- Objections:
 		- Is this just a problem of the limits of our imagination? And not a problem with the essential nature of ‘what it is like-ness’?
 		- A bat is very different from us! Isn’t it easier to imagine what it’s like to be Dr. Anwarzai than what it’s like to be a bat? Maybe we can get insight about others’ consciousness, so long as those others are similar enough creatures to us
+
+One of the objections to this argument that we discussed in class is this: Nagel chooses a very different kind of creature (a bat) and uses it to suggest that imagining what it's like to be _that kind of creature_ is impossible. But of course it's impossible! Bats are fundamentally different from us - they have a different perceptual world. But what about creatures that are similar to us -- other humans, other apes, etc.? Can't we imagine (or get closer to imagining) what it's like to be _those_ creatures?
+
+(1) **Come up with an example supporting this objection.** What's a type of experience that another creature (another human or otherwise) might have for which you might say that we _can in fact_ imagine what it is like to be them?
+
+(2) **Argue whether or not your example and the objection seem adequate.** Have you really convinced yourself that we can study 'what it is likeness' objectively? Are there still inherent limits? Are there some aspects of 'what it is like-ness' that seem especially suited for objective inquiry -- more so than others?
+
+Liam Wallace (Alone), 301640125
+(1) Example: While it might be considered impossible to imagine myself as a bat this does not mean that this is the same for all creatures. The immediate thought that came to me was I can imagine myself being a chimpanzee much easier than imagining myself as a bat. While I am unable to communicate well with chimpanzee's we have done significant studies and know the main differences, thus I think with proper research and analysis it would be reasonable to be capable of imagining myself as a chimpanzee. 
+
+(2) This is a probably one of the best examples against Nagel while not being a human being, but it does create many flaws. We are innately not chimpanzees and do not have the same capabilities, and the inverse, where we may associate characteristics that appear within us onto being a chimp while that is not true. I think while it is possible to properly imagine the physical characteristics it is not possible to perfectly imitate the chimpanzee mind, thus misleading our understanding of the creature. Overall I think this shows that it is somewhat possible to understand other creatures, but Nagel has a point because some sections of being might truly be impossible to imagine, example being the mind.
