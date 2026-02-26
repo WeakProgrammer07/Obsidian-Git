@@ -16,4 +16,12 @@
 	- Self-Consciousness
 	- "What is like"-ness
 	- First person experience
-- 
+- Dualism
+	- The mind and body are two fundamentally different things and different kinds of substances
+	- The body is a physical substance. The mind is a non-physical substance
+- Physicalism
+	- The mind, just like the body, is a physical substance. 
+	- These are not distinct things – the mind is part of the physical body.
+
+
+
