@@ -1,0 +1,83 @@
+- Richard Frank
+	- SFU Professor, School of Criminology
+	- Director of SFU International Cybercrime Research Centre
+- AI can produce text, images, audio, and video (with audio)
+- Generative AI's are biased and guided by some parameters
+	- Done by necessity
+	- Prevent it from doing harm
+	- Examples without these guardrails
+		- Microsoft Tay
+			- Was neutral but was corrupted by twitter
+			- Garbage in = Garbage out
+		- ChatGPT 3.0 was prone to blurting out violent, racist, sexist remarks
+- Goal: To remove toxic and hateful speech
+	- Remove that data from training data
+	- Solution: Build AI's that can detect toxic language like hate speech
+	- Feed AI with labeled examples of violence, hate speech etc (Toxicity Model)
+		- Use toxicity model to filter the toxic content
+			- Training Data
+			- User Input
+			- Output response
+		- OpenAI used people in Kenya to label content for hateful and harmful content
+		- OpenAI also designed the software to act more "socially correct"
+	- Guiding LLM's to be safe is hard
+		- Users have been able to make these systems create malware
+		- Hack is usually just a well structure prompt
+- What if the AI is designed without guardrails
+	- Some still seem to have trained "values", even if they claim not to
+	- Some models just give the answer though, even though it is clearly harmful (eternaGPT, wormGPT)
+- Pentagon tells anthropic to abandon ethics rules for AI
+	- Clearly political motives
+- Implication of AI to Crime (Basically can Automate all of the steps)
+	- Malware
+		- AI can help write unique malware for each attack
+		- Bots could learn and adapt to detection and exfiltration techniques
+		- Using computer vision and ML, AI can help solve CAPTCHA
+	- Identity and Privacy
+		- AI-driven surveillance tools - scrape data and clone social media accounts
+			- Use account to defraud others
+			- Used to apply for new loans
+		- AI can lead to lose of anonymity if it can be used to cross reference multiple datasets and re-identify anonymized users
+		- Exploitation of consent
+			- Users unknowingly "consent" to data usage via TOS
+			- AI is then used to mine that data and train future AI
+		- Facial Recognition algorithms can be used to track individuals
+		- Voice and Video Spoofing
+			- Cloning voices and deepfake videos impersonating real individuals for scams and social engineering
+				- Only a few seconds needed
+			- Deepfaking for Identity Verification
+				- Bypass biometric ID checks
+				- Likely will need passwords for conversations
+	- Spam
+		- AI can personalize scams/spam emails
+		- AI can scan social media to craft more believable messages
+		- AI can drive the landing pages where users end up
+		- Could simulate multiple people are interacting
+	- Carding and Money Laundering
+		- Card Validation is a serious problem for carders
+			- AI botnets offer real-time card validation
+			- Bots can test stolen card details on e-commerce sites using low risk purchases, adapting to anti-fraud systems
+		- Fake Cardholders can be mass generated with AI
+			- Used to register for fake bank accounts and credit cards
+		- Smurf Transactions
+			- Execute 100's of smaller transactions across platforms to launder money oversees
+				- Either fiat currency or crypto
+		- Automate the recruitment of money mules
+		- Using AI to link card data from one breach to other information from another breach
+		- Can use AI to simulate user behaviour
+	- Human Trafficking 
+		- Using AI to adjust recruitment methods
+		- Used to help avoid detection
+		- Recruitment can be automated
+	- Social Media
+		- Disinformation campaigns
+			- Spread even faster
+		- Algorithm identify vulnerable users to direct campaigns
+		- AI generated content, even full "people"
+		- Fake reviews/endorsements
+		- AI driven content is going to flood the internet
+		- Foreign influence will be able to scale up
+		- Influence operations will be able to target individuals
+		- AI generated content, images and videos, will soon cost nothing to create
+			- Allows for targeting politicians, academics, scientists, anyone
+			- 

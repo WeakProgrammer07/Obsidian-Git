@@ -3,7 +3,6 @@
 - Consider how you might copy material – how it is similar to and different from the ways OpenAI and similar AI companies copy and use material?
 	- It seems pretty similar to just paraphrasing, which is a variation of copying. OpenAI is basically being a student that found a good piece of writing, then changed some stuff, then goes back, maybe to same link maybe to others, to check if it still fits
 	- But there is a significant difference, I am very much under fair use, I don't go out and then announce that information for a fee to other people. This is what OpenAI is doing basically, but has not paid properly for the information, and they are using the information for commercial purposes.
-	- 
 - How does the lawyer (Kevin Siu of Gilbert’s LLP in Toronto) describe and explain fair dealing?
 	- Fair dealing is also called users right. Can use it under a scope of regular activities, such as research, education. But this does not always apply, such as how commercially it is being used, and since they charge for pro and other models you can say it is for profit. 
 - Does Kevin Siu seem to see fair dealing as a possible defence for Open AI? Why or why not?
