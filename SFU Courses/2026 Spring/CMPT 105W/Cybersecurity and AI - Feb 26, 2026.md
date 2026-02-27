@@ -80,4 +80,23 @@
 		- Influence operations will be able to target individuals
 		- AI generated content, images and videos, will soon cost nothing to create
 			- Allows for targeting politicians, academics, scientists, anyone
-			- 
+- Predictions
+	- Criminals will adapt AI for their purposes
+		- See an arms race between attackers and defenders
+	- Technical attacks will help attackers break into websites, services, wallets
+		- Current filters, defences, are inadequate
+	- Is the cost of AI-generated content is near noting, how will we be able to say "that content is fake" without putting doubt onto truthful content
+	- Social attacks will help attackers cyberbully and defraud people
+		- Content will be individualized
+		- How can individuals protect themselves?
+		- Targets will be discredited and be overwhelmed
+	- Who and what will be able to trust as the "truth"?
+- What to Do?
+	- We need AI detectors and extensive use of MFA
+		- AI detectors suck right now
+		- Everyone hates MFA, but might be needed
+			- Not foolproof though, especially sim
+	- Employees and users need to be trained and be vigilant
+	- AI watermarking
+		- Can't mark everything
+	- Law enforcement and security organizations need to work together
