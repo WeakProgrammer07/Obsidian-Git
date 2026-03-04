@@ -1,0 +1,28 @@
+- Physicalism
+	- Idea that mind and consciousness are physical processes
+	- There is no "special stuff" (soul, etc) which create consciousness, over and above the physical matter
+	- The mind is just the brain
+	- Eliminative Materialism
+		- Most radical physicalism
+		- Mind is nothing more than the physcial processes
+		- Only physical explanations are correct
+		- Our ordinary or first-person descriptions of consciousness are typically false
+		- Ordinary explanations misrepresent the physical processes causing human action, leading to a false theory of the relationship between auditory processing and behaviour
+	- Other physicalists 
+		- Accept that ordinary or subjective explanations can and should figure into our explanations of consciousness 
+		- Other explanations are compatible with our physical explanations.
+- There is still something important about how these processes seem to us
+- Two attempts to study consciousness scientifically
+	- Global Neuronal Workspace Theory
+		- Argues that consciousness is the entire process of certain information being broadcast to the entire brain
+		- Information is selected by the attentional processes, integrated by a central computer
+		- (More another day)
+	- Integrated Information Theory
+- Physical processes which are and are not conscious:
+	- There are many odour molecules currently present but which you do not smell.
+	- There is lots of visual stimuli which is in your visual field which you don’t notice.
+	- There are lots of sensations (the way your clothes feel) and lots of other perceptual information (sounds) which you are exposed to and which your brain is processing (perhaps integrating it into your conscious experience, perhaps filtering it out) but which you are not aware of.
+- Understanding the relationship between physical stimuli, physical processing, and conscious experience of (some but not all) stimuli seems critical to understanding how the mind works.
+- Many Cognitive Scientists think that attention is the cognitive mechanism through which you become conscious of particular stimuli.
+
+
