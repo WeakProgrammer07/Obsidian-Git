@@ -15,3 +15,49 @@
 - Both change and inattentional blindness involve a lack of perceptual awareness (or consciousness) of something (an object, a change) due to a lack of attention.
 - The work from Broadbent, Simons & Chabris, and Simons & Levins has been used to support the idea that
 	- attention is necessary for consciousness.
+- If attention is necessary for consciousness, this means a few things:
+	- You cannot be conscious without attention.
+	- Any system not capable of “paying attention” is not capable of consciousness.
+- One challenge to the idea that attention is necessary for consciousness
+	- We have evidence suggesting that attention is not necessary for consciousness. See, for example, the cocktail party phenomenon
+		- At a loud and crowded party, you are engaged in conversation A. You hear your name mentioned in conversation B, across the room, which you were not previously paying attention to
+		- So, you heard something without paying attention to it
+	- Some researchers think that the cocktail party effect challenges Broadbent’s model, others think it supports his model
+- There’s a distinction between top-down and bottom-up attention which is important to attention research in general, but not totally important to the idea that attention (of any form) is necessary for consciousness. 
+	- Top-down: Voluntary, goal-directed
+	- Bottom-up: Stimulus drive, automatic
+- There’s a difference between being conscious of something such that you really see or hear it, and it figuring into your action in some way, even if you cannot report or remember it
+	- The brain still registers things that we don’t remember or can’t talk about, as in the case of priming, implicit bias, or certain emotions.
+- Claim: Attention is necessary for consciousness.
+	- Objection 1: But I can hear things I wasn’t paying attention to! (the cocktail effect)
+		- Response 1: You start paying attention to it when you hear it. 
+		- Response 2: The cocktail effect isn’t explained by voluntary attention, but bottom-up attention. But it’s still attention.
+	- Objection 2: Your brain still registers things you aren’t paying attention to. (priming, implicit bias, emotions)
+		- Response: Having your brain register something isn’t the same as being conscious of something. Being conscious of something requires using that thing for thought and action.
+- Why does this debate about attention’s role in consciousness matter for the science of consciousness?
+	- Localizing consciousness in the brain by localizing attentional processes (we can say where consciousness unfolds, or at what stage in perceptual processing it arises).
+	- We can capture the essence of consciousness, rather than use a long list of random features to refer to it.
+- Daniel Dennett (2005):
+	- Consciousness can also be understood as fame in the brain. Whichever mental states win out competition over others for the attentional spotlight are the conscious mental states
+	- This idea about the attentional spotlight causing fame in the brain (or consciousness) is the theoretical basis for Global Neuronal Workspace Theory (GWNT): an empirical, scientific approach to studying consciousness in the brain.
+- Global Workspace Theory (GWT)
+	- Original theory developed by Bernard Baars in 1982
+	- Further developed by Stanislas Dehaene in the 2000s
+	- The prefrontal cortex (PFC) is like a central computer: It gathers and orders sensory information from elsewhere in the brain. Relevant information is selected then “broadcast” from the PFC back out to other task-relevant parts of the brain.
+		- The broadcast process is what we perceive as consciousness
+	- Step 1. Lots of different sensory, conceptual, and experiential information is processed by different parts of your brain.
+	- Step 2. The Prefrontal Cortex (PFC) collects and prioritizes attended to information from elsewhere in the brain
+	- Step 3. Organized information from the PFC gets broadcast to the rest of the brain, so that other relevant areas of the brain can use that organized information.
+		- The contents of the global workspace (the information which the PFC has organized and then projects back to the other parts of the brain for potential use) are what we become conscious of.
+	- The main implications from GWT:
+		- Attention is necessary for consciousness. (It’s the PFC filter and the broadcaster.)
+		- Everything in the Global Workspace is conscious – and therefore available for use in action and reason.
+		- Everything not in the Global Workspace is unconscious – and therefore not available for use in action and reason.
+	- The intuitive appeal of GWT: It gets us closer to a scientific theory of the mechanism which explains our subjective experience of the objective, physical world.
+	- The worry about GWT: It proposes a too-restrictive definition of consciousness, which suggests that things we don’t pay attention to don’t play a substantive role in our thinking and action.
+
+
+
+
+
+
