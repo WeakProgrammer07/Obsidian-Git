@@ -1,0 +1,17 @@
+- Understanding the relationship between physical stimuli, physical processing, and conscious experience of (some but not all) stimuli
+- Many Cognitive Scientists think that attention is the cognitive mechanism through which you become conscious of particular stimuli.
+- Donald Broadbent (1958)
+	- Attention is a filtering/selection mechanism which functions to prevent information overload.
+	- Broadbent’s Filter Theory of Attention: Attention is a bottleneck – only a limited amount of information can pass through at one time
+	- ![[Pasted image 20260305093752.png]]
+	- On Broadbent’s model, attention is the mechanism that filters out information that will not be perceived
+- Daniel Simons and Chris Chabris (1999)
+	- Without attention, we may not even perceive objects. This is called inattentional blindness.
+	- To attend to something = to pay attention to it
+- Daniel Simons & Daniel Levin (1998)
+	- Without attention, we don’t notice obvious (dynamic, real-time) changes to our environment, especially if they are task-irrelevant. This is change blindness
+- Change blindness: failure to perceive a change in an object.
+- Inattentional blindness: failure to perceive an object.
+- Both change and inattentional blindness involve a lack of perceptual awareness (or consciousness) of something (an object, a change) due to a lack of attention.
+- The work from Broadbent, Simons & Chabris, and Simons & Levins has been used to support the idea that
+	- attention is necessary for consciousness.
