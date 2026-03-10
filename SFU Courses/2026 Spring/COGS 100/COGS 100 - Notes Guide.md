@@ -17,3 +17,6 @@
 #### Module 3 - Dualism and Physicalism
 [[Feb 24, 2026 - Dualism and Physicalism, pt. 1]]
 [[Feb 26, 2026 - Dualism and Physicalism, pt. 2]]
+[[March 3, 2026 - Attention and Consciousness, pt 1]]
+[[March 5, 2026 - Attention and Consciousness, pt 2]]
+[[March 10, 2026 - Science of Consciousness, pt. 1]]
