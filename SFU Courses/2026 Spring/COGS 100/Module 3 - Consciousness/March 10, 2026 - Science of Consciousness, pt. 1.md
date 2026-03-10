@@ -12,5 +12,10 @@
 		- Aims to measure consciousness
 		- Aims to explain conscious experience in terms of specific information processing dynamics in a system.
 			- Conscious experience = enough units of consciousness, combined in the right way
+- Global Workspace Theory
+	- GWT: Conscious experience emerges at the stage of selection & broadcast.
+	- The PFC selects task-relevant information, then broadcasts that information to the global workspace.
+	- When information is broadcast into the global workspace for a sustained period of time, we have salient conscious experience of that information.
+	- When that information is broadcast into the global workspace, it also becomes available for other parts of the brain to use it to complete specific tasks
 
 
