@@ -1,4 +1,4 @@
 - GWT has had more studies done
-- Most promising evidence behind GWT, is a process called inition
+- Most promising evidence behind GWT, is a process called ignition
 	- Ignition is a sustained pattern of brain activity, which seems to get activated between the PFC and other areas of the brain
-- 
+	- If subjects are not conscious of a item then ignition does not occur
