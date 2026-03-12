@@ -20,3 +20,4 @@
 [[March 3, 2026 - Attention and Consciousness, pt 1]]
 [[March 5, 2026 - Attention and Consciousness, pt 2]]
 [[March 10, 2026 - Science of Consciousness, pt. 1]]
+[[March 12, 2026 - Science of Consciousness, pt. 2]]
