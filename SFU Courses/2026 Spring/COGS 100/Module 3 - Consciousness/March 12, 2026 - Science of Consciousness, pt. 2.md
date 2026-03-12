@@ -31,3 +31,13 @@
 		- IIT: A system can have more or less consciousness in it.
 			- Some systems will have more consciousness than others.
 			- (Maybe) You can experience consciousness in degrees.
+
+
+1. Choose one of the three theoretical differences between GWT and IIT listed on slide 29.
+	- Whether consciousness can come in degrees
+2. Consider the implications of that difference. Does one of the implications on either side of the debate seem especially beneficial (one we should accept and use to guide our scientific study of consciousness) or especially limiting (one which doesn’t seem to appropriately capture our intuitive idea of what consciousness is)? Explain why.
+	- In IIT there is the idea of consciousness coming in degrees while in GWT it is either there or not, no in between. This allows IIT to be more beneficial in the classification of how conscious something is, not everything is equally conscious
+3. Come up with a specific example to support your response to (2).
+	- 
+4. Say whether you think your response suggests that we should reject, accept, or revise whichever theory you’re considering.
+	- 
