@@ -36,8 +36,8 @@
 1. Choose one of the three theoretical differences between GWT and IIT listed on slide 29.
 	- Whether consciousness can come in degrees
 2. Consider the implications of that difference. Does one of the implications on either side of the debate seem especially beneficial (one we should accept and use to guide our scientific study of consciousness) or especially limiting (one which doesn’t seem to appropriately capture our intuitive idea of what consciousness is)? Explain why.
-	- In IIT there is the idea of consciousness coming in degrees while in GWT it is either there or not, no in between. This allows IIT to be more beneficial in the classification of how conscious something is, not everything is equally conscious
+	- (In IIT there is the idea of consciousness coming in degrees while in GWT it is either there or not, no in between. This allows IIT to be more beneficial in the classification of how conscious something is, not everything is equally conscious. This differs from GWT where everything is totally on or totally off. This feels limiting because it makes it seem like you're either a genius-level thinker or a complete "zombie" with no middle ground.
 3. Come up with a specific example to support your response to (2).
-	- 
+	- Waking up from a very deep sleep. In those first few seconds, you aren't fully "out of it" anymore, but you aren't fully "awake" or aware of where you are either. You're in a hazy middle zone. IIT can explain this as your consciousness "turning up" like a dimmer switch, whereas GWT would have a hard time explaining that "half-there" feeling since it expects a sudden "click" of awareness
 4. Say whether you think your response suggests that we should reject, accept, or revise whichever theory you’re considering.
-	- 
+	- We should revise GWT to be less "all-or-nothing." While the idea of a "Global Workspace" makes sense for how we focus on one thing at a time, it feels too strict for the real world. We should  accept the degrees part of IIT because it feels more natural to how we actually experience life and how other creatures likely experience.
