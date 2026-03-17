@@ -21,3 +21,5 @@
 [[March 5, 2026 - Attention and Consciousness, pt 2]]
 [[March 10, 2026 - Science of Consciousness, pt. 1]]
 [[March 12, 2026 - Science of Consciousness, pt. 2]]
+#### Module 4 - Embodied and Extended Cognition
+[[March 17, 2026 - Embodied Cognition, pt. 1]]
