@@ -67,9 +67,15 @@
 		- Accept that there is no functional difference between Otto and Inga, and
 		- Accept that functionalism about cognition is true (that the particular function of a state is all that matters for calling it a cognitive state).
 
-Consider an object you use everyday to accomplish a specific task or perform a specific behavior – a task or behavior which one could, theoretically do without the object.
+Consider an object you use everyday to accomplish a specific task or perform a specific behaviour – a task or behaviour which one could, theoretically do without the object.
 - Explain why one might argue that this object is an extension of your mind.
+	- Camera is the object selected. 
+	- Reliability and Accessibility: Much like Otto’s notebook, a camera (smartphone) is almost always with you. When you use the image gallery to remember what a specific slide was for class, the information is as reliably available like Inga’s internal memory (maybe even better, or more accurately).
+	- Guiding Action: You can use a camera’s "memory" to guide yourself, and remember information. Checking a photo of a map, a slide, etc.
 - Then explain your own stance. Defend or reject (1) based on whether or not there is a significant functional difference between doing the task/behaviour with or without the object.
+	- The phone/camera and my mind work together (coupling) to remember a class slide, but the camera does not make up (constitute) my mind. If I lose my camera, my capacity for "visual thought" remains intact. Also the biological memory of stuff is different than just a setup of pixels, it has some depth and connection to other stuff. It might be connected to a certain class that is not represented in a camera's picture. There is a significant difference in my mind remembering visual information and a camera, but they are quite different and it is a tool that could be used very well. But if someone had a photographic memory then I do not think it would be a significant tool.
+	- Process with camera in conjunction: Take photo -> stored in digital memory -> can refer to whenever I have access to it
+	- Process without: memorize content/image -> stored in biological memory -> always have access to my memory so with me forever, no extra step
 
 
 
