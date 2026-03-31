@@ -1,0 +1,39 @@
+- Wide Range of what could be considered to have a artificial mind
+	- LLM's
+		- Computational model which input and output human (natural) language using large amounts of text data (ChatGPT, Claude)
+	- Chatbots
+		- Applications which engage in dialogue using language
+	- Social Robots 
+		- Machines which carry out specific social tasks or engage in specific types of social interaction 
+	- Expert Systems
+		- Models designed to replicate human expertise in a specific domain (Chess bots)
+- Sometimes called **Artificial Agents**
+	- Artificial: Synthetic, non-living
+	- Agents: Things that have a capacity to act
+- Some but not all of these systems rely on artificial intelligence
+- ‘Artificial intelligence’ 
+	- used to be a term that referred very broadly to any machine system which simulated human behaviour.
+	- More recently, it is used to refer to computational models (or systems & application based on models) which rely on specific machine learning strategies (deep learning, reinforcement learning)
+- Big question: *Do artificial agents have minds?*
+	- Do artificial agents engage in the core processes involved in cognition? 
+		- Core processes: Representation, symbolic processing, information processing
+		- Reasons to answer yes:
+			- If cognition fundamentally is about information processing, symbolic representation and manipulation, and other forms of representation, then yes. That also seems to be what computers are doing.
+		- Early defenders of this idea: 
+			- Newell and Simon (1976): Physical Symbol System Hypothesis
+			- Defenders of the literal interpretation of the slogan ‘Cognition is Computation’
+	- Do artificial agents have minds like humans?
+		- Reasons to answer yes:
+			- Artificial agents engage in the same kinds of behaviours as humans (and presumably, analogous behaviours are caused by analogous minds; or: analogous behavioural capacities suggest analogous mental capacities).
+			- Human minds are defined by their core processes, and some artificial agents have them too.
+		- Early defender of this idea:
+			- Alan Turing (sort of)
+		- Turing Test
+			- If a machine can engage in behaviour which is indistinguishable from a human (that is, any potential differences are unnoticeable to humans interacting with the machine), then that machine passes the Turing Test
+			- For Turing, passing the test is enough for us to consider a machine as something that thinks.
+		- Some people have resisted the idea that behavioural similarities implies having a mind (or having a mind similar to humans).
+			- Passing the Turing Test proves a machine’s linguistic indistinguishability, not cognitive indistinguishability.
+			- So, all it proves is that a machine can communicate using words and sentences in a way no different than humans.
+	- Do artificial agents have minds, even if they don’t look anything like what we see in humans or other animals?
+		- Reasons to answer yes:
+			- Artificial agents are capable of behaviour which is indistinguishable from humans, even if the process is very different. Their process is different but yields equally intelligent results 
