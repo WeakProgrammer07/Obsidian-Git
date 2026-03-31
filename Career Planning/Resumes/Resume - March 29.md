@@ -7,7 +7,7 @@
 
 ### SKILLS SUMMARY
 
-* **Technical Proficiencies:** Python, C, C++, JavaScript, CSS, HSML, Git, Linux
+* **Technical Proficiencies:** Python, C, C++, JavaScript, CSS, HTML, Git, Linux
 
 ***
 

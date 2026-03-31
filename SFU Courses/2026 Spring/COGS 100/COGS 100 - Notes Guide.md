@@ -25,4 +25,5 @@
 [[March 17, 2026 - Embodied Cognition, pt. 1]]
 [[March 19, 2026 - Embodied Cognition, pt. 2]]
 [[March 26, 2026 - Extended Cognition]]
+#### Module 5 - Nonhuman Minds
 [[March 31, 2026 - Artificial Minds, pt. 1]]
