@@ -23,3 +23,6 @@
 [[March 12, 2026 - Science of Consciousness, pt. 2]]
 #### Module 4 - Embodied and Extended Cognition
 [[March 17, 2026 - Embodied Cognition, pt. 1]]
+[[March 19, 2026 - Embodied Cognition, pt. 2]]
+[[March 26, 2026 - Extended Cognition]]
+[[March 31, 2026 - Artificial Minds, pt. 1]]
