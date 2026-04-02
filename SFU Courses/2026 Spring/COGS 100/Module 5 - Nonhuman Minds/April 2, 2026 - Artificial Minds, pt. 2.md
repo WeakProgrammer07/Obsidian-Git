@@ -47,6 +47,20 @@ Here is a simplified version of your notes, keeping the exact same structure to 
 		- Going beyond your programming
 		- Participating in a social world
 
+What are some of the human-like behaviours either WALL-E or EVE do which suggest
+they have minds? Give two specific examples.
+- The one which I think is most clear is how WALL-E is collecting non-functional aesthetic objects on his own volition, there is no logical reason based on any objective or goal. This is the rubrics cube and the items in his "home", overall this does not seem like a preprogrammed behaviour, or in progress of an objective which agentic systems are designed for. 
+- Next is the seeking social connection for a irrelevant (to an objective) goal. He had a goal of wanting to be with EVE, but there is no clear reason for him to do it, it does not advance the compression of garbage which seems to be what he was designed for, potentially it even goes against this directive. This is very human behaviour, making "dumb" decisions that are not logical in any which way for the pursuit of love. 
+
+What are some of the non-human-like (even, distinctively machine-like) behaviours
+either WALL-E or EVE do which suggest they have minds? Give two specific
+examples.
+- EVE when in WALL-E's house is being taught about new items, and she is experimenting, gathering new data like a machine. This is something that humans can do but this appears to be a unique way that only a robot like her are capable of doing.
+- WALL-E being reset to defaults is very machine like, something that a human cannot do in any feasible way, but this behaviour of coming back to his personality seems to be something like accessing deleted data, something that we can do. But the holding hands being a trigger seems to be something that is from WALL-E having a mind.
+
+Which type of behaviours (human or non-human-like) seem more significant for
+establishing that either WALL-E or EVE really do have minds, and why?
+- I think the human-like behaviours are the ones that are important in this case. The ones that are non-human like seem to be more similar to programmed or going for a set objective like how a machine learning system is designed for. Human like behaviours are considered wasteful in most cases, and I do not think that AI systems would utilize this. Therefore due to the behaviours exhibited by WALL-E and EVE they should have something more than just an AI system, something like a mind. 
 
 
 
