@@ -11,14 +11,14 @@
             "id": "d7b3a076400ae699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 7, 2026 - Animal Minds, pt. 1.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "April 7, 2026 - Animal Minds, pt. 1"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "d7b3a076400ae699",
   "lastOpenFiles": [
+    "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 7, 2026 - Animal Minds, pt. 1.md",
+    "Pasted image 20260407133406.png",
+    "SFU Courses/2026 Spring/CMPT 105W/Week 12.1.md",
+    "Pasted image 20260407133445.png",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/March 31, 2026 - Artificial Minds, pt. 1.md",
     "SFU Courses/2026 Spring/CMPT 105W/Ethics.md",
     "SFU Courses/2026 Spring/CMPT 105W/Cybersecurity and AI - Feb 26, 2026.md",
@@ -204,7 +208,6 @@
     "SFU Courses/2026 Spring/CMPT 105W/Reading Notes Week 3,4.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 1 Topic selection.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 2 DMap and first version intro paragraph.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 7, 2026 - Animal Minds, pt. 1.md",
     "README.md",
     "Career Planning/Links.md",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 2, 2026 - Artificial Minds, pt. 2.md",
@@ -223,8 +226,6 @@
     "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 12, 2026 - Science of Consciousness, pt. 2.md",
     "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition",
     "Career Planning/Cover Letters",
-    "Projects/The \"Forever-Trails\" Device, Master Build Guide.md",
-    "Hackathon/Mountain Madness 2026.md",
     "Projects",
     "Attachments/Untitled",
     "Excalidraw",
@@ -240,8 +241,6 @@
     "Attachments/MACM 101 - Attachments/Pasted image 20251206115421.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206114339.png",
     "Attachments/MACM 101 - Attachments/Pasted image 20251206114125.png",
-    "Attachments/MACM 101 - Attachments/Pasted image 20251206113855.png",
-    "Attachments/MACM 101 - Attachments/Pasted image 20251206113514.png",
     "Untitled.canvas"
   ]
 }
