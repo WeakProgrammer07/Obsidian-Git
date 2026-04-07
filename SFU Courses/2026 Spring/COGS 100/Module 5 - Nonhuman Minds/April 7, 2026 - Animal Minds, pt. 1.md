@@ -59,7 +59,5 @@
 							- Definitely not: Bunny is learning grammar.
 					- Less controversial studies have tried to look for evidence of grammar in existing systems of communication.
 						- Are whale or bird calls grammatical? Does the order of the call determine the meaning of the call?
-
 				- Attempts to evaluate animal systems of communication for features of language (displacement, grammar, productivity)
-
 	- Broadening our definition of cognition beyond human standards; identifying the core features of cognition across a wide range of cases.
