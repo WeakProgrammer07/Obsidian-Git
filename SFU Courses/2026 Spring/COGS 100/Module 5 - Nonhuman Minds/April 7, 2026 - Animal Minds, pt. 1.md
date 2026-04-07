@@ -1,0 +1,65 @@
+- Terminology
+	- Creature Consciousness
+		- Being awake, alive, sentient (having valanced experiential states)
+	- Phenomenal Consciousness
+		- Having subjective awareness, qualitative mental states (what it is like-ness)
+	- Anthropomorphization
+		- Attributing human traits, features, or processes to non-human creatures or objects.
+- Questions to ask/answer
+	- Do nonhuman animals have minds?
+		- Which ones?
+		- What is the character of their minds?
+		- What kinds of cognitive capacities do they have?
+- Approaches to these questions:
+	- Applying “human” standards to other animals.
+		- Not the same as Anthropomorphization
+			- Can lead us to overlook or misrepresent the cognitive and behavioural processes of other creatures
+			- Can lead to ethical issues
+				- Misunderstanding the needs of other creatures;
+				- Misattributing (the wrong) intent to other creatures
+		- Looking for cognitive capacities analogous to those which we find in humans
+			- Why starting with humans
+				- We’re already convinced we have minds, so it’s one of the only non-controversial cases we’ve got. 
+				- We do think there’s something distinctive about human minds.
+			- Language
+				- Systems of communication, there is limited evidence of linguistic systems of communication in other animals
+				- What makes a system of communication linguistic?
+					-  Displaced, abstract symbol signaling: we can use words and other signs to talk about things which aren’t immediately present or of concern to us
+					- Grammar: a system of rules which determines how words should be used and which helps determine the meanings of words
+					- Productivity: the ability to make new words and infinite combinations of words and sentences
+				- Why does language make a mind distinctive?
+					-  Maybe it’s necessary for (truth-evaluable) thoughts
+					- It enables a wider range of complex cognitive activity (planning, certain forms of coordination, imagination)
+			- Investigations into language in other animals include
+				- Attempts to teach animals human language
+					- Early Research: Non Human Primates
+						- Washoe (1967) - taught by Allen and Beatrix Gardner
+							- Chimpanzee
+							- Learned American Sign Language (ASL)
+							- Used/understood about 350 signs 
+							- Combination of “water” and “bird” to refer to “swan” was considered as evidence of productivity
+						- Koko (1971) - taught by Francine Patterson
+							- Gorilla
+							- Learned ASL 
+							- Understood between 500-1000 signed words
+							- Evidence of semantic learning but not syntactical
+							- Maybe evidence of mourning and remembering the past (Koko’s kitten)
+						- Nim Chimpsky (1973) - taught by Herbert Terrace
+							- Chimpanzee
+							- Learned ASL
+							- Used about 100 signs (or words)
+							- Didn’t initiate or create sentences; considered as evidence of imitation motivated by reward
+						- These early animal language studies were considered fundamentally flawed (not replicable, not offering evidence for the conclusions being argued for). Since then, animal language research has been considered highly controversial
+					- Recent Works
+						- The Comparative Cognition Lab (run by Federico Rossano) is running a large scale, ecologically valid study on animals’ ability to communicate using soundboards with human language.
+							- Bunny is one participant dog
+						- How should we interpret the evidence from dogs like Bunny
+							- Definitely: Bunny is using the right buttons to refer to the correct objects; Bunny is understanding verbal commands and using the right buttons to respond.
+							- Maybe: Bunny understands the words she uses. (Or she just understands the reactions they create in her caretaker.) Bunny is learning or creating new words.
+							- Definitely not: Bunny is learning grammar.
+					- Less controversial studies have tried to look for evidence of grammar in existing systems of communication.
+						- Are whale or bird calls grammatical? Does the order of the call determine the meaning of the call?
+
+				- Attempts to evaluate animal systems of communication for features of language (displacement, grammar, productivity)
+
+	- Broadening our definition of cognition beyond human standards; identifying the core features of cognition across a wide range of cases.

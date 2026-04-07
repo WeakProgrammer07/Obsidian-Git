@@ -17,4 +17,3 @@ Provide at least a couple (at least 2) aspects with a brief description each th
 - Presentation Material
 	- Is the content thought through, or is it very shallow
 	- Was time put into it
-- 
