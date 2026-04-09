@@ -40,5 +40,5 @@
 	- The essence of cognition is adaptivity.
 		- Flexible, creative, innovative, or otherwise complex thinking or acting that is beneficial to the survival or fitness of an individual or group
 		- Looking for the way a species adapts does not require that we identify anything human-like about either their goals or their methods.
-
+- Randy Beer: Adaptation is both necessary and sufficient for cognition.
 
