@@ -1,0 +1,44 @@
+- Attempting to teach animals human language
+	- Primates with sign language
+	- Dogs with buttons
+	- Evidence of semantic learning (learning which symbols correspond to which things in the world)
+	- Maybe evidence of productivity (combining words to make new words)
+	- None have shown evidence of grammar, which is an essential part of language
+- Attempting to evaluate animal communication systems for features of language
+	- Recent studies have looked at whales and birds
+		- Are bird songs grammatical? Does the call order determine the meaning?
+			- Different basic calls
+				- A: alert (something to pay attention to)
+				- R: recruit (come over here)
+			- Alert and Recruit can be used together or separately
+				- AR would produce a different kind of response than just A or R alone
+			- The order of the compound call mattered
+				- AR was understood by the birds but not RA
+		- Which cognitive capabilities can we assume based on the kind of syntax certain birds exhibit?
+			- Learning rules that don't always follow a "natural order"
+			- Productivity: Being able to put together calls to make new calls
+- Features in human minds which are considered important to human minds that we look for
+	- Theory of Mind
+		- I know that other people have minds, and I know that others don't always have the same mental states that I do. (recognize others might have different minds that yourself)
+	- Problem Solving
+		- Collective problem solving: finding flexible ways to address novel problems in a changing world as a group
+			- Coordination
+			- Flexibility approaching novel challenges
+			- (maybe) a capacity for theory of mind, to know that your partners have different information
+- Other kinds of minds (Ants vs Humans Case)
+	- Ants vs Humans Case
+		- What are some important differences between ant and humans in the problem solving case
+			- What information they were relying on
+			- Motivations
+			- Number of participants
+			- Human capabilities were limited from their natural ways (limit vision, etc.)
+		- For humans, smaller group sizes with higher communication facilitates problem solving.
+		- For ants, larger group sizes facilitates problem solving by establishing something like a collective memory.
+		- Humans and ants in both cases are both approaching a novel situation and coming up with tools to solve the problem they face in that situation in real time.
+		- What’s important in both cases is not our ordinary idea of human coordination (planning, joint action, explicit communication, specialized roles).
+		- What’s important in both cases is the flexibility and adaptivity of both humans and ants.
+	- The essence of cognition is adaptivity.
+		- Flexible, creative, innovative, or otherwise complex thinking or acting that is beneficial to the survival or fitness of an individual or group
+		- Looking for the way a species adapts does not require that we identify anything human-like about either their goals or their methods.
+
+

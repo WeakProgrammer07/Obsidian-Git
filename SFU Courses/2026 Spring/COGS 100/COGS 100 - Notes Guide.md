@@ -29,3 +29,4 @@
 [[March 31, 2026 - Artificial Minds, pt. 1]]
 [[April 2, 2026 - Artificial Minds, pt. 2]]
 [[April 7, 2026 - Animal Minds, pt. 1]]
+[[April 9, 2026 - Animal Minds, pt. 2]]
