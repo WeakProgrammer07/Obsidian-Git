@@ -11,14 +11,14 @@
             "id": "e1f5f52bf5e690c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "SFU Courses/2026 Spring/CMPT 105W/Prep for Why does copyright matter.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Prep for Why does copyright matter"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d38fa7917c0245",
+  "active": "e1f5f52bf5e690c1",
   "lastOpenFiles": [
+    "SFU Courses/2026 Spring/CMPT 105W/Prep for Why does copyright matter.md",
     "SFU Courses/2026 Spring/CMPT 105W/Presentation Tips.md",
     "Projects/The Forever-Trails Device, Master Build Guide.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 2 DMap and first version intro paragraph.md",
@@ -215,7 +216,6 @@
     "SFU Courses/2026 Spring/CMPT 105W/Week 12.1.md",
     "Pasted image 20260407133445.png",
     "SFU Courses/2026 Spring/CMPT 105W/Cybersecurity and AI - Feb 26, 2026.md",
-    "SFU Courses/2026 Spring/CMPT 105W/Prep for Why does copyright matter.md",
     "SFU Courses/2026 Spring/CMPT 105W/Reading Notes Week 3,4.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 1 Topic selection.md",
     "README.md",
