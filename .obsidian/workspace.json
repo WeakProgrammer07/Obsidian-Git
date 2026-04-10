@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Random/Cool Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cool Stuff"
+            }
+          },
+          {
+            "id": "249f2adc82b362ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 9, 2026 - Animal Minds, pt. 2.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "April 9, 2026 - Animal Minds, pt. 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f5f52bf5e690c1",
+  "active": "249f2adc82b362ec",
   "lastOpenFiles": [
-    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes Guide.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 2, 2026 - Artificial Minds, pt. 2.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 26, 2026 - Extended Cognition.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 19, 2026 - Embodied Cognition, pt. 2.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 17, 2026 - Embodied Cognition, pt. 1.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 12, 2026 - Science of Consciousness, pt. 2.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 10, 2026 - Science of Consciousness, pt. 1.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 5, 2026 - Attention and Consciousness, pt 2.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/Feb 26, 2026 - Dualism and Physicalism, pt. 2.md",
+    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/Feb 24, 2026 - Dualism and Physicalism, pt. 1.md",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 9, 2026 - Animal Minds, pt. 2.md",
+    "SFU Courses/2026 Spring/COGS 100/COGS 100 - Notes Guide.md",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 7, 2026 - Animal Minds, pt. 1.md",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/March 31, 2026 - Artificial Minds, pt. 1.md",
     "SFU Courses/2026 Spring/CMPT 105W/Prep for Why does copyright matter.md",
@@ -207,13 +231,6 @@
     "Projects/The Forever-Trails Device, Master Build Guide.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 2 DMap and first version intro paragraph.md",
     "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 3, 2026 - Attention and Consciousness, pt 1.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/March 5, 2026 - Attention and Consciousness, pt 2.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/Feb 26, 2026 - Dualism and Physicalism, pt. 2.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 3 - Consciousness/Feb 24, 2026 - Dualism and Physicalism, pt. 1.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 17, 2026 - Embodied Cognition, pt. 1.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 19, 2026 - Embodied Cognition, pt. 2.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition/March 26, 2026 - Extended Cognition.md",
-    "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds/April 2, 2026 - Artificial Minds, pt. 2.md",
     "SFU Courses/2026 Spring/CMPT 105W/Ethics.md",
     "Pasted image 20260407133406.png",
     "SFU Courses/2026 Spring/CMPT 105W/Week 12.1.md",
@@ -222,8 +239,6 @@
     "SFU Courses/2026 Spring/CMPT 105W/Reading Notes Week 3,4.md",
     "SFU Courses/2026 Spring/CMPT 105W/STAGE 1 Topic selection.md",
     "README.md",
-    "Career Planning/Links.md",
-    "SFU Courses/2026 Spring/CMPT 125/CMPT 125 - Notes.md",
     "SFU Courses/2026 Spring/COGS 100/Module 5 - Nonhuman Minds",
     "SFU Courses/2026 Spring/COGS 100/Module 4 - Embodied and Extended Cognition",
     "Career Planning/Cover Letters",
