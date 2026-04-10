@@ -5,7 +5,7 @@ A dualist thinks that consciousness is something that is not physical at all, me
 Physicalists believe that consciousness arises entirely from the physical matter and processes within the brain. But they might argue it resists scientific explanation because our objective scientific tools are unable to truly capture subjective experiences.  There remains an 'explanatory gap' between observing physical brain mechanisms and explaining exactly how they create a feeling and consciousness.
 
 17: Explain and defend the idea that consciousness comes in degrees. Give one concrete example to motivate the idea that we should understand consciousness as coming in degrees.
-
+This is following the Integrated Information Theory (IIT), where each bit of information is a unit of consciousness, not just a simple conscious or not. This seems to make some sense, because we as humans would consider ourselves more conscious then a mouse, but a mouse also has some consciousness. A mouse has subjective awareness but to a lower degree than humans, so this allows us to see that consciousness is more like a slider than a switch.
 
 18: Explain one of the primary tensions between IIT and GWT. What is one way in which these theories are different, and why does that difference matter for our understanding of 
 consciousness?
