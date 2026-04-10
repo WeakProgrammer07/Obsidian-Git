@@ -2,7 +2,7 @@
 A dualist thinks that consciousness is something that is not physical at all, meaning its not made of particles or matter. Since our scientific methods completely rely on a third person observation it lacks the tools to catch the 'what it's like-ness'. Therefore any scientific explanation will be insufficient. 
 
 6: Explain in your own words why a physicalist might argue that consciousness resists scientific explanation. (3 sentences maximum)
-
+Physicalists believe that consciousness arises entirely from the physical matter and processes within the brain. But they might argue it resists scientific explanation because our objective scientific tools are unable to truly capture subjective experiences.  There remains an 'explanatory gap' between observing physical brain mechanisms and explaining exactly how they create a feeling and consciousness.
 
 17: Explain and defend the idea that consciousness comes in degrees. Give one concrete example to motivate the idea that we should understand consciousness as coming in degrees.
 
