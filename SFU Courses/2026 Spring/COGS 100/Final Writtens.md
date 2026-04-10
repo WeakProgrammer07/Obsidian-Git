@@ -1,5 +1,5 @@
 5: Explain in your own words why a dualist might argue that consciousness resists scientific explanation. (3 sentences maximum)
-A dualist thinks that consciousness is something that is not physical at all, meaning its not made of particles or matter. Since our scientific methods completely rely on a third person observation it lacks the tools to catch the what it's like-ness. Therefore any scientific explanation will be insufficient. 
+A dualist thinks that consciousness is something that is not physical at all, meaning its not made of particles or matter. Since our scientific methods completely rely on a third person observation it lacks the tools to catch the 'what it's like-ness'. Therefore any scientific explanation will be insufficient. 
 
 6: Explain in your own words why a physicalist might argue that consciousness resists scientific explanation. (3 sentences maximum)
 
