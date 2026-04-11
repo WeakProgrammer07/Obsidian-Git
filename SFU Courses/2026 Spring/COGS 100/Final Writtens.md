@@ -9,12 +9,15 @@ This is following the Integrated Information Theory (IIT), where each bit of inf
 
 18: Explain one of the primary tensions between IIT and GWT. What is one way in which these theories are different, and why does that difference matter for our understanding of 
 consciousness?
+The one which I think holds the most tension between the two is how they consider what kind of thing consciousness is. GWT considers consciousness as needing experiences to process and broadcast to the 'global workspace' to have consciousness, but this is significantly different to IIT where consciousness is just a type of information that is present in the world and a beings capability to integrate it. This difference matters because it defines what we consider conscious; GWT implies that entities without complex cognitive workspaces (like early infants or simple AI) are not conscious, while IIT suggests a much broader spectrum where even simpler systems possess some subjective experience.
 
 
 21: Many embodied cognition theorists think that a living body (capable of intaking sensory information) is necessary for cognition. Give one example of a specific theory from classical cognitive science (Module 1) which does NOT hold that a living body is necessary for cognition. (Your answer can be very short here -- just name a specific theory.)
+Information Processing Model of Cognition. This is because it goes with the slogan "Cognition is Computation". Basically saying that the physical body is irrelevant as long as computations are happening
 
 
 25: A box might offer different affordances to a human than the affordances it offers to a cat. Explain why. Your response should make clear that you know what an affordance is, and it should give at least 1 example of an affordance the box offers a human versus an affordance the box offers a cat. Keep your response as short as possible.
-
+An affordance is what the environment "offers the animal... for good or ill," meaning the possibilities depend entirely on the relationship between an organism and an object. Because of our different body sizes and capabilities, an empty box affords a human storage (like a box for your old papers), whereas that exact same box affords a cat shelter.
 
 34: Give one example of a scientifically problematic case of anthropomorphizing a nonhuman animal. Explain briefly why that case is problematic for scientific inquiry into whether that animal has a mind.
+I have a dog and he is a bit protective, not aggressive though, so I will use him as an example. He seems to get jealous and butts in if others, for example hug my mom, but this "jealousy" is a human-like emotion that we attach to him. This is problematic for scientific inquiry because we are projecting our social issues and dynamics onto a dog, masking what could be a more accurate explanation. Using subjective human emotions in place of objective observations affects our ability to figure out if they actually have a mind or not.
